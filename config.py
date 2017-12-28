@@ -1,0 +1,13 @@
+# FILEPATH = 'F:\\BaiduNetdiskDownload\\摩登family\\Modern.Family.S01.720p.RoSubbed.BluRay.X264-REWARD\\YYeTs\\'
+FILEPATH = 'D:\\Python36\\zdh3\\zimuku\\yyzm\\'
+SRTPATH = 'D:\\Python36\\zdh3\\zimuku\\yyzm\\SRT\\'
+MONGODB_URL = 'localhost'
+MONGODB_DB = 'zimuku'
+# KEYWORD = 'House of Cards'  # 吉普赛人 金装律师
+ZIMUZU = 'YYeTs字幕组'#  深影字幕組
+# ZIMUZU = ''#
+KEYWORD1 = 'good.fight'  # Silicon.Valley Gypsy House.of.Cards Suits modern.family modern.family Suits
+SUBTITLE = '双语字幕'
+SHOWSPTN = '[a-zA-Z0-9.]*?[sS]\d\d'
+SHOWPTN = '[Ss]\d\d[Ee]\d\d'
+MONGODB_COLLECTION = KEYWORD1  # Gypsy  Suits

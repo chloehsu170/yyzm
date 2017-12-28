@@ -1,0 +1,5201 @@
+﻿1
+00:06:38,060 --> 00:06:43,060
+{\an8}翻译：草草  CS漫画家小明  菲力  帆大大  王大可  香茗小焙
+
+2
+00:06:43,060 --> 00:06:48,060
+{\an8}翻译：鱼小姐啦  某羽   校对：某羽  菲力
+
+3
+00:06:48,060 --> 00:06:53,060
+{\an8}时间轴：若林   永远  今
+
+4
+00:06:53,060 --> 00:06:58,060
+{\an8}后期：丁丁  斯人      总监：某羽
+
+5
+00:07:03,920 --> 00:07:06,060
+{\an8}{\pos(186.305,73.91)}诉 讼 双 雄
+
+6
+00:07:03,920 --> 00:07:06,060
+{\an8}{\pos(186.305,179.043)}第四季   第十三集
+
+7
+00:00:00,930 --> 00:00:02,330
+《诉讼双雄》前情提要
+Previously on Suits
+
+8
+00:00:02,330 --> 00:00:03,760
+你的名字挂在墙上了
+You got your name on the wall.
+
+9
+00:00:03,760 --> 00:00:05,500
+现在我想要与之匹配的尊重
+Now I want the respect that comes with it.
+
+10
+00:00:05,500 --> 00:00:06,480
+意思是
+Meaning?
+
+11
+00:00:06,480 --> 00:00:08,040
+我想要哈维的一个客户
+I want one of Harvey's clients.
+
+12
+00:00:08,040 --> 00:00:09,720
+我的客户就是我的客户
+My clients are my clients.
+
+13
+00:00:09,720 --> 00:00:10,850
+如果你不在三秒钟内
+And you don't get out of my office
+
+14
+00:00:10,850 --> 00:00:12,000
+离开我的办公室
+in the next three seconds,
+
+15
+00:00:12,000 --> 00:00:13,700
+你我之间一定有事发生
+something's gonna happen between you and me,
+
+16
+00:00:13,700 --> 00:00:15,910
+而且我保证  此事一旦发生
+and I guarantee it won't end with you
+
+17
+00:00:15,910 --> 00:00:17,540
+你的牙肯定保不全
+keeping all of your teeth.
+
+18
+00:00:17,600 --> 00:00:19,270
+艾弗里·麦肯诺曾经是
+Avery McKernon was the first client
+
+19
+00:00:19,270 --> 00:00:20,530
+我带进律所的第一位客户
+I ever brought into the firm.
+
+20
+00:00:20,530 --> 00:00:22,430
+他们总是赢家  就像我
+They win, like me.
+
+21
+00:00:22,430 --> 00:00:24,480
+他们知道特雷弗不是那个班里的
+They know Trevor isn't in the class,
+
+22
+00:00:25,190 --> 00:00:28,270
+所以他不可能是偷试题的那个人
+so they know he couldn't have been the one to steal the test.
+
+23
+00:00:28,270 --> 00:00:29,490
+我不开除你的朋友
+I'm not going to expel your friend.
+
+24
+00:00:29,490 --> 00:00:30,340
+非常感谢您  先生
+Oh, thank you, sir.
+
+25
+00:00:30,340 --> 00:00:31,340
+但是有一点
+There's just one thing.
+
+26
+00:00:31,340 --> 00:00:32,310
+我就打电话给哈佛
+I'm gonna call Harvard.
+
+27
+00:00:32,310 --> 00:00:33,710
+你听我说
+Believe me when I tell you,
+
+28
+00:00:33,710 --> 00:00:35,370
+你是永远去不了哈佛了
+You're never going there.
+
+29
+00:00:35,450 --> 00:00:36,630
+记得这个吗
+Remember this?
+
+30
+00:00:36,630 --> 00:00:37,760
+不  你不记得
+No, you don't,
+
+31
+00:00:37,880 --> 00:00:39,790
+因为你不可能记得没见过的东西
+because you can't remember something you never knew.
+
+32
+00:00:39,790 --> 00:00:40,870
+你不能解雇我
+You can't fire me.
+
+33
+00:00:40,870 --> 00:00:42,590
+我为什么要解雇你  我可以击溃你
+Why would I fire you when I can break you?
+
+34
+00:00:42,590 --> 00:00:46,980
+我要把你埋在一大堆破烂底下
+You see, I'm going to bury you under a mountain of shit so big
+
+35
+00:00:47,370 --> 00:00:49,600
+你会求我把它挪走
+you're going to be begging me to take it off.
+
+36
+00:00:56,140 --> 00:00:57,900
+先那杯曼哈顿给我
+First of all, give me that Manhattan
+
+37
+00:00:57,900 --> 00:01:00,320
+再去点一杯男人会点的酒
+and go get yourself a drink a man would order.
+
+38
+00:01:00,380 --> 00:01:01,700
+15分钟后回来
+Come back here in 15 minutes,
+
+39
+00:01:01,700 --> 00:01:04,490
+如果我还记得你是谁  我就
+and if I still remember who you are, I'll be shocked.
+
+40
+00:01:06,350 --> 00:01:09,020
+好了  我们到底来这儿干什么
+Okay, so why are we really here?
+
+41
+00:01:09,580 --> 00:01:10,740
+你带我出来
+I mean, you didn't just bring me 
+
+42
+00:01:10,740 --> 00:01:11,770
+不会只是为了聊卡丽熙吧
+out to talk about Khaleesi.
+
+43
+00:01:11,770 --> 00:01:14,590
+就是啊  保罗·波特说我长得像她的侍女翻译
+I did. Paul Porter says I look like her translator.
+
+44
+00:01:14,590 --> 00:01:15,510
+他也是冰火粉啊
+He's a Throner?
+
+45
+00:01:15,520 --> 00:01:18,750
+不过他说我不如她的小翻译性感
+Though he says I'm a less-attractive version of her translator.
+
+46
+00:01:18,970 --> 00:01:20,140
+好吧  你只是想让我说
+Okay, you're just trying to get me to say
+
+47
+00:01:20,140 --> 00:01:21,290
+你比她性感
+that you're hotter than her.
+
+48
+00:01:21,580 --> 00:01:23,210
+-我是不是嘛  -你性感多了
+- Am I? - You're way hotter.
+
+49
+00:01:23,210 --> 00:01:24,470
+但她口音很撩人
+But she has that accent.
+
+50
+00:01:25,260 --> 00:01:26,110
+我实事求是
+Fair point.
+
+51
+00:01:26,220 --> 00:01:29,280
+好吧  我带你来这儿
+You know, look, the reason that I brought you here
+
+52
+00:01:30,480 --> 00:01:33,340
+是想告诉你  我知道你告诉路易
+is to tell you that I know that you told Louis
+
+53
+00:01:33,340 --> 00:01:35,040
+我给卡特里娜找了份工作
+that I got Katrina a job.
+
+54
+00:01:36,570 --> 00:01:38,700
+-听我说  -别担心  我没生你气
+- Look, I -- - Relax, I'm not mad at you.
+
+55
+00:01:38,700 --> 00:01:40,350
+但我记得是你
+But I do remember you being the person
+
+56
+00:01:40,350 --> 00:01:41,750
+告诉我不要强求
+who told me not to force things
+
+57
+00:01:41,750 --> 00:01:43,160
+-求不来的东西  -瑞秋
+- that weren't meant to be. - Rachel, 
+
+58
+00:01:43,660 --> 00:01:45,470
+一个人给别人建议
+just because a person gives advice
+
+59
+00:01:45,470 --> 00:01:47,910
+不代表自己一定会遵守
+doesn't mean that they have to follow that same advice.
+
+60
+00:01:47,910 --> 00:01:50,660
+这是《唐娜之书》的核心原则之一
+That's one of the core principles outlined in "The Book of Donna."
+
+61
+00:01:51,370 --> 00:01:53,420
+说真的  我也不是有意告诉路易的
+Seriously, though, I didn't mean to tell Louis.
+
+62
+00:01:53,420 --> 00:01:54,960
+就是脱口而出了  抱歉
+It just came out. I'm sorry.
+
+63
+00:01:54,960 --> 00:01:56,160
+我说了  没事
+Like I said, it's fine.
+
+64
+00:01:56,690 --> 00:01:59,270
+他其实还来问我们能不能重新做朋友
+He actually ended up asking if we could be friends again.
+
+65
+00:01:59,410 --> 00:02:00,130
+然后呢
+And?
+
+66
+00:02:00,140 --> 00:02:03,860
+我跟他说  我们之间不可能和好如初
+And I told him that things would never be the same between us
+
+67
+00:02:03,860 --> 00:02:05,430
+除非他原谅迈克
+unless he forgave Mike.
+
+68
+00:02:05,430 --> 00:02:06,370
+他怎么说
+And what did he say?
+
+69
+00:02:07,280 --> 00:02:08,470
+他说他做不到
+He said he couldn't do it.
+
+70
+00:02:09,900 --> 00:02:11,810
+简单  过埃卢跳投
+That's easy. The jumper over Ehlo.
+
+71
+00:02:11,930 --> 00:02:15,350
+错  换手单手上篮  过珀金斯和格林
+Wrong, the switch-hand layup over Perkins and Green.
+
+72
+00:02:15,990 --> 00:02:17,350
+你真让我吃惊啊  哈维
+I'm surprised at you, Harvey.
+
+73
+00:02:17,370 --> 00:02:18,880
+过埃卢跳投足以拿下比赛
+The Ehlo jumper was a game-winner.
+
+74
+00:02:18,880 --> 00:02:20,220
+单手上篮是种挑衅
+The layup was a statement.
+
+75
+00:02:20,220 --> 00:02:22,460
+"我想干什么都行  这比赛我赢定了"
+"I can do whatever I want. I own this league."
+
+76
+00:02:22,560 --> 00:02:24,710
+你是在说乔丹还是你自己
+Are you talking about Jordan or yourself now?
+
+77
+00:02:25,470 --> 00:02:26,610
+有区别吗
+Is there a difference?
+
+78
+00:02:27,600 --> 00:02:28,550
+区别大了
+A big difference,
+
+79
+00:02:29,230 --> 00:02:30,820
+这就要说到我来的原因
+which brings me to why I'm here.
+
+80
+00:02:31,990 --> 00:02:33,880
+你不能随心所欲  哈维
+You can't do whatever you want, Harvey.
+
+81
+00:02:35,140 --> 00:02:37,210
+你要我跟路易修好
+You want me to make things right with Louis.
+
+82
+00:02:37,240 --> 00:02:38,810
+他帮助了我和杰夫
+He made things right between Jeff and me.
+
+83
+00:02:38,810 --> 00:02:41,570
+那我就要为此永远巴结他吗
+So I'm supposed to kiss his ass forever because of that?
+
+84
+00:02:41,570 --> 00:02:43,850
+不  你要跟他和好
+No, you're supposed to make peace.
+
+85
+00:02:43,850 --> 00:02:46,470
+杰西卡  我乐意和好
+Jessica, I'm willing to make peace,
+
+86
+00:02:47,150 --> 00:02:48,440
+但那是不可能的
+but that's never gonna happen.
+
+87
+00:02:48,560 --> 00:02:49,190
+为什么
+Why not?
+
+88
+00:02:49,200 --> 00:02:51,110
+因为路易是绝不会原谅迈克的
+Because Louis is never gonna forgive Mike.
+
+89
+00:02:51,690 --> 00:02:54,110
+那就想办法让他原谅迈克
+Then figure out a way to make him forgive Mike.
+
+90
+00:02:57,160 --> 00:03:00,640
+{\an8}六年前
+
+91
+00:03:02,820 --> 00:03:04,630
+唐娜  我说过多少次了
+Donna, how many times have I told you
+
+92
+00:03:04,630 --> 00:03:05,830
+你要坐在外面
+I want you out front?
+
+93
+00:03:05,830 --> 00:03:07,800
+我是唯一有秘书的初级律师
+I'm the only associate with a secretary.
+
+94
+00:03:07,800 --> 00:03:09,730
+我希望人们都看到我的秘书
+It would be nice if people could see my secretary.
+
+95
+00:03:09,730 --> 00:03:11,780
+那让你的下任秘书  想办法不进你办公室
+Well, then maybe your next secretary can figure out
+
+96
+00:03:11,780 --> 00:03:14,390
+把这个放好吧
+where to put this without coming into your office.
+
+97
+00:03:15,610 --> 00:03:17,140
+-开玩笑吧  -没有
+- You're kidding? - Not kidding.
+
+98
+00:03:17,140 --> 00:03:18,200
+这不是你伪造的吗
+You didn't forge this?
+
+99
+00:03:18,200 --> 00:03:20,740
+我很厉害  但我不是禽兽
+I am a lot of things, but I am not a monster.
+
+100
+00:03:20,740 --> 00:03:23,090
+我既不会这么对迈克尔也不会这么对你
+I would do that to neither Michael nor you.
+
+101
+00:03:23,090 --> 00:03:25,150
+-叫这么亲啊  -他直呼我教名
+- Oh, so he's Michael now? - Well, I'm Donna to him.
+
+102
+00:03:25,150 --> 00:03:27,970
+我也这么喊他  空中传奇大人打电话来时
+He's Michael to me, which is what I told His Airness
+
+103
+00:03:27,980 --> 00:03:29,080
+我就这么说的
+when he called.
+
+104
+00:03:29,530 --> 00:03:31,510
+等等  你不是在开玩笑
+Wait a second. You're not kidding.
+
+105
+00:03:31,640 --> 00:03:32,550
+他跟我签约了
+He signed with me?
+
+106
+00:03:32,550 --> 00:03:33,950
+严格说  是跟我签约了
+Well, technically, he signed with me.
+
+107
+00:03:33,950 --> 00:03:37,050
+我去  唐娜  我们今晚得庆祝啊
+Holy shit, Donna. We have to celebrate tonight.
+
+108
+00:03:37,050 --> 00:03:38,470
+我是要庆祝
+Oh, I'm gonna celebrate.
+
+109
+00:03:38,550 --> 00:03:40,660
+但你呢  得跟路易喝酒
+You, on the other hand, are having drinks with Louis.
+
+110
+00:03:41,320 --> 00:03:43,250
+什么  我们说过了
+What? We've been over this.
+
+111
+00:03:43,250 --> 00:03:45,240
+不论路易什么时候提出要跟我喝酒
+Whenever Louis asks to have drinks with me,
+
+112
+00:03:45,250 --> 00:03:46,260
+永远拒绝他
+the answer's always no.
+
+113
+00:03:46,260 --> 00:03:48,590
+听好我说的话
+Listen to the words that I'm saying.
+
+114
+00:03:49,080 --> 00:03:51,110
+你今晚要去跟路易喝酒
+You are getting drinks with Louis tonight.
+
+115
+00:03:51,460 --> 00:03:53,190
+费尔柴德要退休了
+Fairchild's retiring?
+
+116
+00:03:53,200 --> 00:03:54,280
+费尔柴德死了
+Fairchild's dead.
+
+117
+00:03:55,720 --> 00:03:57,470
+几乎跟乔丹的消息一样棒了
+That's almost as good as the Jordan news.
+
+118
+00:03:57,570 --> 00:03:58,270
+对费尔柴德可不算
+Not to Fairchild.
+
+119
+00:03:58,270 --> 00:03:59,870
+谁管费尔柴德怎么样啊
+Who gives a shit about Fairchild?
+
+120
+00:03:59,870 --> 00:04:01,940
+真正的悲剧是我要跟路易喝酒
+The real tragedy is I have to get drinks with Louis.
+
+121
+00:04:01,940 --> 00:04:03,680
+所以我给你订了一间小众餐厅
+Which is why I got you a secluded restaurant
+
+122
+00:04:03,680 --> 00:04:05,850
+后面的桌子  没人会看到你的
+with a table in the back where no one will see you.
+
+123
+00:04:05,850 --> 00:04:07,440
+过半小时你会打电话来
+And you'll call a half an hour in 
+
+124
+00:04:07,440 --> 00:04:08,660
+说有急事要处理吧
+and say there's an emergency.
+
+125
+00:04:08,660 --> 00:04:10,810
+已经准备好了  如果打不通
+Already in place, and if I can't get through,
+
+126
+00:04:10,820 --> 00:04:11,920
+我会让侍者
+then I'll just have the waiter 
+
+127
+00:04:11,920 --> 00:04:13,200
+把酒洒在路易身上
+spill drinks all over Louis.
+
+128
+00:04:13,200 --> 00:04:14,730
+-这你也能做到  -拜托
+- You could have that done? - Oh, please.
+
+129
+00:04:14,740 --> 00:04:15,950
+如果我想  可以让
+I could have Louis held captive
+
+130
+00:04:15,950 --> 00:04:17,830
+路易被人关在一间西藏寺院里
+in a Tibetan monastery if I wanted to.
+
+131
+00:04:17,830 --> 00:04:19,210
+我觉得这你做不到...
+Yeah, I don't think you have that--
+
+132
+00:04:19,210 --> 00:04:20,740
+赶紧滚出你办公室吧
+Now get the hell out of your office.
+
+133
+00:04:20,740 --> 00:04:21,900
+我还有工作呢
+I got work to do.
+
+134
+00:04:33,830 --> 00:04:35,040
+打扰  请问能告诉我
+Excuse me. Can you tell me where 
+
+135
+00:04:35,040 --> 00:04:36,420
+吉姆·奥唐纳德的办公室在哪吗
+Jim O'Donnell's office is?
+
+136
+00:04:38,040 --> 00:04:40,510
+看情况了  你对移民法有什么了解
+That depends. What do you know about immigration law?
+
+137
+00:04:40,520 --> 00:04:41,290
+是签证问题
+What, are we talking visas,
+
+138
+00:04:41,290 --> 00:04:43,500
+还是想搞定劳工证
+or are you trying to process a labor certification?
+
+139
+00:04:44,030 --> 00:04:45,470
+你懂移民法
+You know about immigration law?
+
+140
+00:04:46,260 --> 00:04:47,240
+谁不知道啊
+Doesn't everybody?
+
+141
+00:04:48,510 --> 00:04:49,850
+好吧  拽哥
+Okay, tough guy,
+
+142
+00:04:50,170 --> 00:04:53,110
+你觉得我的策略如何
+what do you think about my strategy on this?
+
+143
+00:04:56,900 --> 00:04:57,770
+我觉得能赢
+I think it's a winner. 
+
+144
+00:04:58,100 --> 00:04:58,850
+为什么
+Why is that?
+
+145
+00:04:58,850 --> 00:05:00,970
+因为人人都知道冈萨雷斯诉马里兰州
+Because everyone knows Gonzalez versus State of Maryland
+
+146
+00:05:00,970 --> 00:05:03,810
+是个了不起的先例  但你这件更好
+was a kick-ass precedent, but your case is better.
+
+147
+00:05:04,000 --> 00:05:05,590
+的确是个了不起的先例
+It was a kick-ass precedent,
+
+148
+00:05:05,830 --> 00:05:07,490
+但我不知道我这个是不是更好
+but I'm not sure that my case is better.
+
+149
+00:05:07,490 --> 00:05:08,470
+绝对是
+Oh, it is.
+
+150
+00:05:08,470 --> 00:05:09,430
+那维特利诉...
+Well, what about Viteri versus--
+
+151
+00:05:09,430 --> 00:05:10,220
+相信我  这个更好
+Trust me, it's better.
+
+152
+00:05:10,220 --> 00:05:12,740
+维特利靠魔法和同情他们的法官才拿下了案子
+Viteri needed magic dust and a sympathetic judge to win.
+
+153
+00:05:14,760 --> 00:05:16,070
+-我们见过吗  -没有
+- Have we met? - Nope.
+
+154
+00:05:16,570 --> 00:05:17,630
+顺说  我叫迈克
+But I'm Mike, by the way.
+
+155
+00:05:18,290 --> 00:05:19,200
+克莱尔
+Claire.
+
+156
+00:05:23,020 --> 00:05:25,150
+你确定吗  你好眼熟
+Are you sure? Because you look very familiar.
+
+157
+00:05:25,150 --> 00:05:27,030
+那可能是因为我一直往这里送快递
+Oh, that's probably because I've been delivering packages
+
+158
+00:05:27,030 --> 00:05:28,490
+都有俩月了
+to your office for the last two months.
+
+159
+00:05:28,490 --> 00:05:29,870
+但你根本不理我[连时间都不肯告诉]
+but you haven't given me the time of day,
+
+160
+00:05:29,870 --> 00:05:32,440
+因为你觉得我配你不够聪明
+because you didn't think I was smart enough for you.
+
+161
+00:05:34,070 --> 00:05:35,210
+9点15分
+It's 9:15.
+
+162
+00:05:35,960 --> 00:05:36,940
+等等  这样管用吗
+Wait. That worked?
+
+163
+00:05:36,940 --> 00:05:38,870
+目前为止还管用  但如果想继续有用
+It's working so far, but I'm gonna need to know
+
+164
+00:05:38,880 --> 00:05:40,470
+你得跟我说说你的详细情况
+your full story if it's gonna keep working.
+
+165
+00:05:40,470 --> 00:05:41,330
+我会跟你说详细情况
+Well, I'll tell you the full story
+
+166
+00:05:41,330 --> 00:05:42,520
+只要你给我你的电话号码
+once you give me your phone number.
+
+167
+00:05:42,520 --> 00:05:44,900
+等我了解了详细情况  就会告诉你我的电话号码
+I'll give you my number when I know the full story.
+
+168
+00:05:45,590 --> 00:05:47,890
+不如这样  我明天晚餐时告诉你
+How about this? I'll tell you everything you want to know
+
+169
+00:05:47,890 --> 00:05:49,710
+你想知道的一切
+at dinner tomorrow night.
+
+170
+00:05:52,200 --> 00:05:53,220
+那样的话
+In that case, 
+
+171
+00:05:53,220 --> 00:05:55,140
+我可以带你去吉姆·奥唐纳德的办公室
+I'll show you where Jim O'Donnell's office is.
+
+172
+00:05:55,390 --> 00:05:56,800
+吉姆·奥唐纳德的办公室
+Jim O'Donnell's office?
+
+173
+00:05:57,280 --> 00:05:58,720
+你觉得我刚刚从哪儿来的
+Where do you think I just came from?
+
+174
+00:06:10,110 --> 00:06:11,880
+我要你帮我点忙
+I need you do something for me.
+
+175
+00:06:12,750 --> 00:06:13,800
+行  什么忙
+Okay, what is it?
+
+176
+00:06:13,810 --> 00:06:15,310
+不用管是什么
+Never mind what it is.
+
+177
+00:06:15,530 --> 00:06:17,220
+你要不想回去干我雇你之前的老本行
+Unless you want to go back to whatever you were doing
+
+178
+00:06:17,220 --> 00:06:19,940
+就明早九点到这个地方
+before I hired you, you'll be here at 9:00 a.m.
+
+179
+00:06:21,190 --> 00:06:22,830
+这是你的汽车俱乐部的地址
+This is the address for your car club.
+
+180
+00:06:22,830 --> 00:06:23,940
+对  你记忆力确实好
+Oh, yeah, your memory.
+
+181
+00:06:23,940 --> 00:06:25,990
+我凭你的记忆力也能记住这个
+I'd remember this even if I had your memory.
+
+182
+00:06:26,080 --> 00:06:27,900
+就在我们合作的第一个案子前去过
+It was right before our first case together.
+
+183
+00:06:27,900 --> 00:06:29,540
+没错  麦肯诺汽车公司
+You're right, McKernon Motors.
+
+184
+00:06:29,640 --> 00:06:32,590
+这次一定要准时  系好安全带
+So this time be on time and put your seat belt on,
+
+185
+00:06:32,590 --> 00:06:35,120
+我们要开上记忆的轨道了
+because we're about to take a trip down memory lane.
+
+186
+00:07:14,570 --> 00:07:15,980
+早上好  亲爱的
+Morning, sunshine.
+
+187
+00:07:19,560 --> 00:07:21,370
+-你在干...  -你管这个叫普鲁尼吧
+- What are you -- - I think you call it a Prunie.
+
+188
+00:07:23,460 --> 00:07:24,480
+恭喜啊
+Congratulations, 
+
+189
+00:07:24,480 --> 00:07:26,210
+唐娜把我最爱的早餐饮料都告诉你了
+Donna told you my favorite breakfast drink,
+
+190
+00:07:26,640 --> 00:07:28,910
+但那跟南极洲茶的价格有什么关系呢
+but what does that have to do with the price of tea in Antarctica?
+
+191
+00:07:28,950 --> 00:07:30,750
+唐娜还告诉我你被激怒了
+Donna also told me that you were pissed,
+
+192
+00:07:30,750 --> 00:07:32,780
+因为你发现我给了你一个
+because you found out I gave you a client
+
+193
+00:07:32,780 --> 00:07:34,390
+我起初不想要的客户
+I didn't want in the first place.
+
+194
+00:07:34,460 --> 00:07:36,050
+而你觉得这样就能弥补了吗
+And you think this is gonna make up for that?
+
+195
+00:07:36,050 --> 00:07:39,430
+不能  但我想给你麦肯诺汽车一半业务就能
+No, but I think giving you 50% of McKernon Motors will.
+
+196
+00:07:40,670 --> 00:07:41,740
+条件是什么
+What's the catch?
+
+197
+00:07:41,760 --> 00:07:44,750
+条件就是  你我现在马上
+The catch is, you and I are about to take a road trip
+
+198
+00:07:45,080 --> 00:07:47,340
+开车去他们公司总部
+to their corporate headquarters right now.
+
+199
+00:07:50,050 --> 00:07:50,940
+你说真的吗
+You serious?
+
+200
+00:07:51,030 --> 00:07:52,670
+我可不拿麦肯诺汽车公司开玩笑
+I don't joke about McKernon Motors,
+
+201
+00:07:52,670 --> 00:07:54,500
+这点你跟我一样了解
+and you know that as well as I do.
+
+202
+00:07:57,370 --> 00:07:58,420
+敬费尔切尔德
+To Fairchild.
+
+203
+00:07:59,380 --> 00:08:01,280
+敬费尔切尔德  愿主保佑他灵魂安息
+To Fairchild. God rest his soul.
+
+204
+00:08:02,350 --> 00:08:03,390
+去他的灵魂
+Screw his soul.
+
+205
+00:08:03,770 --> 00:08:04,890
+你知道他们现在怎么表达
+You know how they say
+
+206
+00:08:04,900 --> 00:08:06,020
+"天堂又多了一位天使"吗
+"Heaven just got another angel"?
+
+207
+00:08:06,490 --> 00:08:07,660
+他们现在都不这么说了
+They ain't saying it now.
+
+208
+00:08:09,930 --> 00:08:11,200
+你为什么一直看你的手机
+Why do you keep checking your phone?
+
+209
+00:08:11,510 --> 00:08:13,690
+-没什么  我只是  -拜托  我又不傻
+- No reason. I just-- - Please, I'm not an idiot.
+
+210
+00:08:14,580 --> 00:08:16,160
+我们到这儿已经28分钟了  再过2分钟
+We've been here 28 minutes, and in 2 minutes,
+
+211
+00:08:16,160 --> 00:08:18,100
+唐娜就会打电话来说一个预先计划的紧急情况
+Donna's gonna call with some preplanned emergency.
+
+212
+00:08:18,100 --> 00:08:19,870
+-路易  不是...  -听着
+- Louis, that's not... - Look
+
+213
+00:08:20,040 --> 00:08:21,990
+你为什么认为我利用费尔切尔德退休
+why do you think I used Fairchild's retirement
+
+214
+00:08:21,990 --> 00:08:23,100
+好让你跟我一起喝酒
+to get you to have drinks with me?
+
+215
+00:08:23,100 --> 00:08:24,620
+因为你知道我觉得那永远不可能吗
+Because you knew I thought it would never happen?
+
+216
+00:08:24,620 --> 00:08:26,490
+因为他没有法定继承人
+Because he doesn't have an heir apparent.
+
+217
+00:08:26,810 --> 00:08:29,610
+路易  如果你在考虑的事如我所想
+Louis, if you're thinking what I think you're thinking--
+
+218
+00:08:29,960 --> 00:08:32,310
+哈德曼不会让我们之一当资深合伙人的
+Hardman's not gonna make one of us senior partner.
+
+219
+00:08:32,310 --> 00:08:33,680
+我不是说我们之一
+I'm not talking about one of us.
+
+220
+00:08:33,960 --> 00:08:36,260
+我说的是我们俩一起说服哈德曼
+I'm talking about both of us convincing Hardman
+
+221
+00:08:36,270 --> 00:08:38,200
+两个厉害的初级合伙人
+that two kick-ass junior partners are worth
+
+222
+00:08:38,200 --> 00:08:40,650
+跟一个新的高级合伙人一样厉害
+as much as one new senior partner.
+
+223
+00:08:41,920 --> 00:08:44,090
+路易  这是我认识你以来
+Louis, that is the best idea 
+
+224
+00:08:44,090 --> 00:08:45,420
+你想出的最好的点子
+you've had since I've known you.
+
+225
+00:08:45,430 --> 00:08:46,310
+是吗
+Yeah?
+
+226
+00:08:47,840 --> 00:08:48,840
+还有一个
+Here's another one.
+
+227
+00:08:49,880 --> 00:08:53,270
+{\an8}皮尔逊·哈德曼·斯佩克特·利特
+
+228
+00:08:55,230 --> 00:08:56,480
+你什么时候想出的这个
+When did you come up with this one?
+
+229
+00:08:56,490 --> 00:08:57,460
+你在洗手间浪费掉
+When you were in the bathroom wasting 
+
+230
+00:08:57,460 --> 00:08:58,860
+我们这半小时里的7分钟时
+7 minutes of our half hour.
+
+231
+00:09:01,660 --> 00:09:02,590
+你不用接吗
+Don't you have to get that?
+
+232
+00:09:03,830 --> 00:09:05,310
+不  不用
+No, I don't.
+
+233
+00:09:05,640 --> 00:09:06,780
+来喝酒庆祝吧
+Let's drink to this.
+
+234
+00:09:11,630 --> 00:09:13,100
+混蛋
+Asshole.
+
+235
+00:09:14,810 --> 00:09:15,950
+那是唐娜  不是吗
+That was Donna, wasn't it?
+
+236
+00:09:16,490 --> 00:09:18,790
+特雷弗  这太傻了
+Trevor, this is so stupid.
+
+237
+00:09:18,790 --> 00:09:19,840
+一点也不傻  蠢货
+It's not stupid, dickhead.
+
+238
+00:09:19,840 --> 00:09:21,110
+我要你站在房子正中间
+I want you to see it for the first time
+
+239
+00:09:21,120 --> 00:09:22,190
+第一次好好看
+from the middle of the room.
+
+240
+00:09:22,190 --> 00:09:24,150
+这是你的公寓  笨蛋
+It's your apartment, assface,
+
+241
+00:09:24,150 --> 00:09:27,000
+别想再给我抹一脖子口水
+and don't even think about giving me a wet Willie.
+
+242
+00:09:27,000 --> 00:09:28,710
+你把好玩的都毁了
+You suck the fun out of everything.
+
+243
+00:09:28,710 --> 00:09:30,410
+去吧  睁开眼就  蠢咖
+Go ahead. Open your eyes, dickfoot.
+
+244
+00:09:30,450 --> 00:09:32,230
+-蠢咖  -我本想说笨蛋
+- "Dickfoot"? - I was gonna use "Assface."
+
+245
+00:09:32,230 --> 00:09:32,940
+我只能想到这些
+It's all I could think of.
+
+246
+00:09:32,940 --> 00:09:34,370
+你进社会要怎么办啊
+How do you even manage in the world?
+
+247
+00:09:34,370 --> 00:09:36,010
+你打算继续站在那里闭着眼睛
+Are you just gonna stand there with your your eyes closed
+
+248
+00:09:36,010 --> 00:09:37,260
+嘲笑我的蠢咖吗
+and mock my "Dickfoot"?
+
+249
+00:09:37,260 --> 00:09:39,570
+我才不要睁眼看你的蠢咖
+I'm definitely not gonna open them to see your dickfoot.
+
+250
+00:09:39,570 --> 00:09:41,180
+这倒是说得不错  我也不要
+That's a good point. I wouldn't do that either.
+
+251
+00:09:41,240 --> 00:09:42,420
+快点  睁开眼睛
+Go ahead. Open your eyes.
+
+252
+00:09:45,010 --> 00:09:47,440
+老天呐
+Holy shit.
+
+253
+00:09:47,440 --> 00:09:49,300
+我以为你在弄工作室
+I thought you were getting a studio.
+
+254
+00:09:49,300 --> 00:09:51,500
+是啊  我本来是这么打算  但我发现
+Yeah, I was going to, but then I realized
+
+255
+00:09:51,930 --> 00:09:53,460
+我们不可能一起住在工作室里
+we can't both live in a studio.
+
+256
+00:09:56,800 --> 00:09:57,510
+什么
+What?
+
+257
+00:09:57,510 --> 00:09:59,730
+欢迎光临埃文斯和罗斯之家
+Welcome to Casa Evans and Ross.
+
+258
+00:09:59,740 --> 00:10:02,010
+特雷弗  我付不起一半的房租
+Trevor, I can't afford half this rent.
+
+259
+00:10:02,020 --> 00:10:03,160
+这就是最棒的地方
+That's the best part.
+
+260
+00:10:03,160 --> 00:10:04,130
+不用担心
+Don't worry about it.
+
+261
+00:10:04,230 --> 00:10:05,620
+第一年我会把你的房租全付了
+I'm gonna pay for your whole first year.
+
+262
+00:10:05,630 --> 00:10:07,440
+不  不行  我不能让你帮我付
+No, you're not. I can't let you do that.
+
+263
+00:10:07,440 --> 00:10:09,390
+迈克  我这周二开始新工作
+Michael, I start my new job on Tuesday.
+
+264
+00:10:09,390 --> 00:10:12,470
+除此之外  我还可以做我的伙伴家族生意
+On top of that, I have my friends and family business on the side.
+
+265
+00:10:12,610 --> 00:10:14,370
+那不意味着我要接受你的救济
+That doesn't mean I'm gonna take charity from you.
+
+266
+00:10:14,370 --> 00:10:15,860
+听着  你要逼我说出来吗
+Look, are you gonna make me say it?
+
+267
+00:10:16,070 --> 00:10:17,150
+这不是救济
+It's not charity.
+
+268
+00:10:17,940 --> 00:10:19,400
+我大学毕业了  你没有
+I graduated, and you didn't,
+
+269
+00:10:19,400 --> 00:10:21,370
+因为你为我做的事情顶罪
+because you took the fall for something I did.
+
+270
+00:10:22,070 --> 00:10:23,010
+我欠你的
+I owe you.
+
+271
+00:10:28,480 --> 00:10:30,080
+好吧  我再考虑考虑
+Okay, I'll think about it.
+
+272
+00:10:30,270 --> 00:10:32,890
+好吧  同时也考虑一下这个
+All right, in the meantime, think about this.
+
+273
+00:10:33,640 --> 00:10:34,450
+不  不行
+No, I can't.
+
+274
+00:10:34,450 --> 00:10:35,790
+-我今晚有约会  -好吧
+- I got a date tonight. - All right.
+
+275
+00:10:35,820 --> 00:10:38,910
+怪咖  小胡子  还是全部的
+Wow, clubfoot, mustache, all of the above?
+
+276
+00:10:39,310 --> 00:10:41,580
+先是蠢咖  现在又是怪咖
+First dickfoot and then clubfoot?
+
+277
+00:10:41,580 --> 00:10:43,660
+你现在只会说带"咖"字的词了吗
+Are words with "foot" all you've got now?
+
+278
+00:10:43,660 --> 00:10:44,830
+好吧  聪明人
+All right, smart guy, 
+
+279
+00:10:44,830 --> 00:10:46,940
+用你的SAT单词来形容那妹子吧
+describe her with one of your SAT words.
+
+280
+00:10:47,600 --> 00:10:49,570
+-大咖  -这才像话
+- Bigfoot. - That's what I'm talking about.
+
+281
+00:10:49,580 --> 00:10:51,530
+准确地说  她真是辣妹
+For the record, she's really hot.
+
+282
+00:10:56,380 --> 00:10:57,480
+我直说吧
+Let me get this straight.
+
+283
+00:10:57,490 --> 00:10:59,650
+你们要我提拔你们作初级合伙人
+Instead of promoting an existing partner,
+
+284
+00:10:59,650 --> 00:11:02,510
+而不是提拔现有合伙人
+you want me to make both of you junior partners.
+
+285
+00:11:02,510 --> 00:11:04,200
+不是"提拔"  我们赢得的
+Well, not make us. We've earned it.
+
+286
+00:11:05,610 --> 00:11:07,030
+赢得合伙人的地位
+Earned partnership status?
+
+287
+00:11:07,170 --> 00:11:08,460
+这对两个五年律师来说
+That's a pretty bold statement
+
+288
+00:11:08,460 --> 00:11:09,640
+可是相当大胆的提议
+coming from two fifth-years.
+
+289
+00:11:09,640 --> 00:11:11,060
+不是随便的五年律师
+Not just any fifth-years.
+
+290
+00:11:11,070 --> 00:11:13,240
+我们是律所史上  两个最棒的五年
+We're the best fifth-years this firm has ever seen,
+
+291
+00:11:13,240 --> 00:11:14,140
+你也知道的
+and you know it.
+
+292
+00:11:14,530 --> 00:11:16,510
+我能问问这是谁的主意吗
+May I inquire whose idea this was?
+
+293
+00:11:16,670 --> 00:11:18,010
+-我们俩的主意  -路易的主意
+- It was both of ours. - It was Louis'.
+
+294
+00:11:18,200 --> 00:11:19,330
+你可真慷慨
+That's generous of you
+
+295
+00:11:19,670 --> 00:11:20,620
+把功劳都给他了
+to give him credit.
+
+296
+00:11:20,620 --> 00:11:23,420
+慷慨的是他主动来找我分享主意
+It was generous of him to come to me with the idea.
+
+297
+00:11:24,380 --> 00:11:27,060
+事实是  我本不想提拔任何合伙人
+The truth is, I wasn't gonna make anyone partner.
+
+298
+00:11:28,700 --> 00:11:30,830
+但我欣赏你们的勇气
+But I do like admire your gumption.
+
+299
+00:11:31,210 --> 00:11:33,540
+所以我想这样
+So here's what I'm willing to do.
+
+300
+00:11:34,010 --> 00:11:36,220
+我会提拔你们其中那个
+I will advance one of you 
+
+301
+00:11:36,220 --> 00:11:39,010
+能证明自己值得被提拔的人
+if you prove to me which one it should be.
+
+302
+00:11:39,050 --> 00:11:40,680
+不  你看  问题是
+No, see, that's the whole point.
+
+303
+00:11:40,680 --> 00:11:41,780
+我们是一起的
+We came in as a package deal.
+
+304
+00:11:41,780 --> 00:11:43,450
+你们来找我提价
+You came in with a proposal.
+
+305
+00:11:43,460 --> 00:11:46,890
+我还个价  你们要么接受  要么放弃
+I'm giving you a counter, and it's take it or leave it.
+
+306
+00:11:46,890 --> 00:11:48,710
+怎么证明
+What sort of proof are we talking about?
+
+307
+00:11:50,640 --> 00:11:52,890
+去拿下麦肯诺汽车公司
+Let's just say McKernon Motors is in play,
+
+308
+00:11:52,890 --> 00:11:56,300
+拿下他们  就是对自己有力的证明
+and landing them could go a long way to making your case.
+
+309
+00:11:56,300 --> 00:11:57,470
+不行  我们不会...
+No way. We're not gonna..
+
+310
+00:11:57,470 --> 00:11:58,760
+好吧  丹尼尔
+All right, Daniel.
+
+311
+00:11:58,910 --> 00:12:00,010
+你要麦肯诺
+You want McKernon?
+
+312
+00:12:00,960 --> 00:12:02,220
+我会给你麦肯诺
+I'll get you McKernon.
+
+313
+00:12:06,090 --> 00:12:08,810
+我们要去麦肯诺汽车公司  不是你的高中舞会
+We're going to McKernon Motors, not your senior prom.
+
+314
+00:12:08,810 --> 00:12:10,340
+为什么我们不能做个车辆服务
+Why can't we just take the car service?
+
+315
+00:12:10,340 --> 00:12:12,470
+因为我们是要去见发动机制造商
+Because we're going to an engine manufacturer.
+
+316
+00:12:12,480 --> 00:12:14,520
+我们得开一辆炫车去
+We need to show up with a bad-ass car.
+
+317
+00:12:15,930 --> 00:12:17,330
+这辆酷车怎么样
+How about this little bad boy right here?
+
+318
+00:12:17,460 --> 00:12:18,290
+不好
+That's no good.
+
+319
+00:12:18,290 --> 00:12:19,040
+怎么不好
+Why the hell not?
+
+320
+00:12:19,040 --> 00:12:20,990
+因为不只是我们两个人去
+Because it's not just the two of us.
+
+321
+00:12:21,700 --> 00:12:22,500
+什么意思
+What do you mean?
+
+322
+00:12:23,650 --> 00:12:24,810
+你这混蛋
+You son of a bitch.
+
+323
+00:12:25,010 --> 00:12:26,490
+你说你和我两人去
+You said you and I are going up there.
+
+324
+00:12:26,490 --> 00:12:27,230
+你骗了我
+You lied to me.
+
+325
+00:12:27,240 --> 00:12:29,610
+如果不那么说  你是不会来的
+Because if I didn't, you would have never agreed to come.
+
+326
+00:12:29,610 --> 00:12:30,910
+我不去了
+There is no way I'm going.
+
+327
+00:12:30,910 --> 00:12:32,160
+你要去
+Yes, you are.
+
+328
+00:12:32,470 --> 00:12:34,490
+有必要的话我会把你绑在车顶上带去
+I don't care if I have to tie you to the roof.
+
+329
+00:12:34,490 --> 00:12:35,800
+去麦肯诺的这段时间
+By the time we get to McKernon,
+
+330
+00:12:35,810 --> 00:12:37,960
+你和迈克要把问题好好解决掉
+you and Mike are gonna work your shit out.
+
+331
+00:12:53,480 --> 00:12:54,830
+难以置信  你居然那么做事
+I can't believe you did that.
+
+332
+00:12:55,550 --> 00:12:57,700
+我们的计划是建立统一战线
+The plan was to present a united front.
+
+333
+00:12:57,780 --> 00:12:59,810
+我们建立了  但他不买账
+And we did, and he didn't go for it.
+
+334
+00:12:59,810 --> 00:13:00,800
+那你就倒打我一耙吗
+Then you stab me in the back?
+
+335
+00:13:00,800 --> 00:13:02,950
+我没有倒打一耙  我接受了他给的条件
+I didn't stab you in the back. I took what he gave us.
+
+336
+00:13:02,950 --> 00:13:04,390
+他什么都没给  哈维
+He didn't give us anything, Harvey.
+
+337
+00:13:04,900 --> 00:13:06,300
+他挑拨我们反目
+He pitted us against each other.
+
+338
+00:13:06,300 --> 00:13:08,120
+路易  咱俩第一天见面起
+Louis, we've been pitted against each other 
+
+339
+00:13:08,120 --> 00:13:09,160
+就是对手了
+since day one.
+
+340
+00:13:09,160 --> 00:13:09,940
+你在说什么
+What are you talking about?
+
+341
+00:13:09,940 --> 00:13:12,150
+跟我们一起进公司的五十名律师
+How many of the 50 associates we started with
+
+342
+00:13:12,160 --> 00:13:13,750
+你觉得有多少人能当合伙人
+do you think are gonna make partner?
+
+343
+00:13:14,250 --> 00:13:16,140
+我不管其他律师
+I don't give a shit about the other associates.
+
+344
+00:13:16,450 --> 00:13:18,570
+我们为统一战线而干了杯
+We toasted to making partner together.
+
+345
+00:13:19,500 --> 00:13:21,810
+规则不是我定的  路易  哈德曼定的
+I don't make the rules, Louis. Hardman does.
+
+346
+00:13:22,120 --> 00:13:23,890
+尽管我们骂他混球
+And as much as we say he's an asshole,
+
+347
+00:13:24,150 --> 00:13:26,680
+我也尊敬他这种有事明说做法
+I respect him for at least telling us the deal out loud.
+
+348
+00:13:26,680 --> 00:13:27,580
+你喜欢有事明说
+You want something out loud?
+
+349
+00:13:27,580 --> 00:13:29,130
+那我就跟你明说
+I'm gonna give you something out loud.
+
+350
+00:13:29,260 --> 00:13:33,000
+我是不会让你拿到麦肯诺汽车公司的
+No way on Earth am I gonna let you land McKernon Motors.
+
+351
+00:13:51,770 --> 00:13:53,510
+-干什么  -什么干什么
+- Hey, what the hell? - What the hell what?
+
+352
+00:13:53,520 --> 00:13:54,900
+这可不是在兜风  路易
+This isn't a joyride, Louis.
+
+353
+00:13:54,910 --> 00:13:57,210
+你要是不想谈话  就得安静坐着
+You don't want to talk, you're gonna sit in silence
+
+354
+00:13:57,220 --> 00:13:58,560
+直到你准备开口
+until you're ready to talk.
+
+355
+00:13:58,560 --> 00:14:00,010
+你可以让我安静坐着
+Well, you can make me sit in silence all you want,
+
+356
+00:14:00,010 --> 00:14:01,630
+但你不能强迫我跟他合作
+but you can't make me work it out with him.
+
+357
+00:14:01,630 --> 00:14:03,440
+-怎样才能让你跟他合作  路易  -什么
+- Then what can, Louis? - Excuse me?
+
+358
+00:14:03,450 --> 00:14:06,180
+你跟唐娜  跟瑞秋都和好了
+You worked it out with Donna and Rachel.
+
+359
+00:14:06,180 --> 00:14:08,110
+你为了杰西卡跟马龙撒了谎
+You lied to Malone for Jessica.
+
+360
+00:14:08,110 --> 00:14:09,930
+你到底要怎么样才能跟我和好
+What's it gonna take to work it out with me?
+
+361
+00:14:10,060 --> 00:14:12,600
+我原谅了他们  因为他们也是受害者
+Well, I forgave those people, because they were victims
+
+362
+00:14:12,610 --> 00:14:15,290
+他们也被名叫迈克·罗斯的疾病传染了
+infected with the disease known as Mike Ross.
+
+363
+00:14:15,730 --> 00:14:17,830
+如今我不得不跟零号病人一起坐在车里
+Now I'm stuck in a car with patient zero.
+
+364
+00:14:17,840 --> 00:14:20,730
+好吧  疾病爆发  零号病人是第一个
+Okay, outbreak, patient zero is the first person
+
+365
+00:14:20,730 --> 00:14:22,670
+感染疾病的人
+actually infected with the disease,
+
+366
+00:14:22,670 --> 00:14:25,040
+而非疾病本身  提醒你一下
+not the disease itself, and for your information,
+
+367
+00:14:25,040 --> 00:14:26,820
+我也跟你一样困在这车里
+I'm stuck in the same car as you.
+
+368
+00:14:27,740 --> 00:14:28,780
+至少你不用看到
+At least you don't have to look at
+
+369
+00:14:28,780 --> 00:14:29,890
+你自己那个愚蠢的
+the back of your own stupid,
+
+370
+00:14:29,890 --> 00:14:31,600
+肥嘟嘟的秃脑袋
+fat, balding head.
+
+371
+00:14:33,970 --> 00:14:35,240
+有什么可笑的
+What's so goddamn funny?
+
+372
+00:14:35,250 --> 00:14:36,800
+你们终于说话了
+You two are finally talking.
+
+373
+00:14:36,920 --> 00:14:38,500
+奖励你一些音乐
+I think you earned a little music.
+
+374
+00:14:48,180 --> 00:14:49,540
+-就这样  -是啊
+- That's it? - Yeah.
+
+375
+00:14:49,610 --> 00:14:51,130
+你只需要从这两个角色里挑一个
+All you have to do is pick one of two characters.
+
+376
+00:14:51,130 --> 00:14:53,130
+而被我遗弃的那个角色
+And whichever character I don't pick
+
+377
+00:14:53,130 --> 00:14:55,150
+就会被从电影史上永远抹杀
+is removed from film history forever?
+
+378
+00:14:55,150 --> 00:14:56,460
+就像从没存在过一样
+It's like they never existed.
+
+379
+00:14:56,580 --> 00:14:57,560
+小菜一碟
+It's a piece of cake.
+
+380
+00:14:57,790 --> 00:15:00,820
+好吧  汉·索罗或者印第安纳·琼斯
+Okay, Han Solo or Indiana Jones?
+
+381
+00:15:01,480 --> 00:15:03,320
+-不玩了  -怎么了
+- I'm out. - What's the problem?
+
+382
+00:15:03,320 --> 00:15:04,520
+你刚刚还说小菜一碟呢
+You just said it was gonna be a piece of cake.
+
+383
+00:15:04,520 --> 00:15:06,310
+问题是你挑了两个有史以来
+The problem is, you just picked the two greatest characters
+
+384
+00:15:06,310 --> 00:15:07,110
+最棒的角色  所以...
+of all time, so...
+
+385
+00:15:07,110 --> 00:15:08,390
+你说得对  抱歉
+You're right about that. I'm sorry.
+
+386
+00:15:08,390 --> 00:15:09,580
+我说个简单点的
+Let me start with something easier for you.
+
+387
+00:15:09,580 --> 00:15:11,020
+-好吧  -布奇或圣丹斯
+- All right. - Butch or Sundance?
+
+388
+00:15:10,280 --> 00:15:11,020
+{\an8}分别是《星球大战》和《夺宝奇兵》中的角色
+
+389
+00:15:11,020 --> 00:15:13,510
+结账
+Mm, check, please.
+
+390
+00:15:13,730 --> 00:15:14,770
+到此为止了
+Yeah, we're done.
+
+391
+00:15:14,770 --> 00:15:16,120
+不
+No.
+
+392
+00:15:17,350 --> 00:15:18,830
+感觉真好
+This is really nice.
+
+393
+00:15:18,950 --> 00:15:20,790
+是的  我也很开心
+Yeah, I'm having a really good time too.
+
+394
+00:15:23,230 --> 00:15:24,390
+什么时候告诉我  你除了送快递
+So when do I get to hear the answer to what you do
+
+395
+00:15:24,390 --> 00:15:26,450
+还做什么
+besides being a bike messenger?
+
+396
+00:15:26,800 --> 00:15:28,360
+谁说我做别的事了
+Who says I do anything?
+
+397
+00:15:30,240 --> 00:15:31,650
+听着  迈克  快递没什么不好
+Look, Mike, there's nothing wrong
+
+398
+00:15:31,650 --> 00:15:35,880
+但是  我对自己的人生很严肃
+with being a bike messenger, but I'm serious about my life.
+
+399
+00:15:36,190 --> 00:15:37,900
+我去法学院并不是为了钱
+I'm not going to law school just to cash out.
+
+400
+00:15:37,900 --> 00:15:39,300
+我真心想帮助别人
+I really want to help people.
+
+401
+00:15:39,300 --> 00:15:41,620
+快递就不能帮助别人吗
+Bike messengers don't help people?
+
+402
+00:15:42,980 --> 00:15:44,850
+我不希望自己恋爱的对象
+No, not in the way that a man I want to be
+
+403
+00:15:44,850 --> 00:15:46,690
+只用这种方法帮助别人
+in a relationship with does.
+
+404
+00:15:52,380 --> 00:15:55,370
+那么  今天你走运了
+Well, then today is your lucky day.
+
+405
+00:15:58,230 --> 00:16:00,180
+我就知道  你要上那个学校
+I knew it. Where do you go?
+
+406
+00:16:00,180 --> 00:16:01,900
+你先说  你要上哪个
+Mm-mm, you first. Where do you go?
+
+407
+00:16:01,900 --> 00:16:04,310
+-纽约大学  -哥伦比亚大学
+- NYU. - Columbia.
+
+408
+00:16:04,320 --> 00:16:05,590
+-我赢了  -我赢了
+- I win. - I win.
+
+409
+00:16:07,670 --> 00:16:09,570
+-早上好  杰西卡  -你好  丹尼尔
+- Good morning, Jessica. - Hi, Daniel.
+
+410
+00:16:09,570 --> 00:16:11,530
+-我还没收到...  -今年的预算吗
+- I still haven't received-- - This year's budget?
+
+411
+00:16:11,530 --> 00:16:13,180
+我正要给你送去呢
+I was just on my way to give it to you.
+
+412
+00:16:13,180 --> 00:16:14,990
+我还以为你一直忙着
+And I thought maybe you hadn't gotten around to it
+
+413
+00:16:14,990 --> 00:16:17,640
+挑拨哈维和路易  没时间做预算呢
+because you were too busy pitting Harvey against Louis.
+
+414
+00:16:17,640 --> 00:16:18,850
+你反对这样吗
+You disapprove.
+
+415
+00:16:18,850 --> 00:16:21,410
+我不介意来点良性竞争
+I don't mind a little healthy competition.
+
+416
+00:16:21,410 --> 00:16:23,750
+但我介意开合伙人资格的空头支票
+But I do mind the empty promise of partnership.
+
+417
+00:16:23,750 --> 00:16:25,690
+你怎么认为最后会没有回报
+What makes you so sure there's no reward at the end?
+
+418
+00:16:25,690 --> 00:16:27,170
+上次我们讨论这个的时候
+The last time we discussed this,
+
+419
+00:16:27,170 --> 00:16:28,360
+你说哈维还没准备好
+you said Harvey wasn't ready.
+
+420
+00:16:28,360 --> 00:16:29,450
+而你说路易没准备好
+And you said Louis wasn't.
+
+421
+00:16:29,450 --> 00:16:31,490
+我是在给他们机会证明自己
+Well, I'm giving them both the chance to prove it.
+
+422
+00:16:31,490 --> 00:16:32,840
+新合伙人的确定已经提上日程了
+So partnership is on the table.
+
+423
+00:16:32,840 --> 00:16:34,870
+早就提上日程了
+Partnership was already on the table.
+
+424
+00:16:35,620 --> 00:16:37,580
+你怎么认定会是哈维
+What makes you so sure it's gonna be Harvey?
+
+425
+00:16:37,990 --> 00:16:40,570
+因为哈维为了获胜不择手段
+Because Harvey will do whatever it takes to win.
+
+426
+00:16:41,030 --> 00:16:43,310
+如果不择手段是评判标准
+If doing whatever it takes is the criteria,
+
+427
+00:16:43,310 --> 00:16:45,290
+那我赌路易会赢
+my money is on Louis.
+
+428
+00:16:45,930 --> 00:16:47,510
+这话是什么意思
+What are you talking about?
+
+429
+00:16:48,240 --> 00:16:51,000
+我们还是去我办公室接着聊吧
+I think we should continue this conversation in my office.
+
+430
+00:16:55,730 --> 00:17:01,080
+你好  我来给佐坦·富莱斯美斯特森送邮件
+Hi, I've got a delivery for a Zoltan Freastmeisterson.
+
+431
+00:17:01,270 --> 00:17:03,830
+这间办公室可没有叫这个名字的人
+I'm afraid there's no one in this office with that name.
+
+432
+00:17:03,830 --> 00:17:05,840
+你记错了吧
+I'm afraid you're mistaken.
+
+433
+00:17:05,840 --> 00:17:06,660
+-是吗  -没错
+- Really? - Yeah.
+
+434
+00:17:06,660 --> 00:17:08,590
+我敢打赌地球上都没有
+Because I'm willing to bet that there's no one on this planet
+
+435
+00:17:08,590 --> 00:17:09,320
+叫这个名字的人
+with that name.
+
+436
+00:17:09,320 --> 00:17:10,870
+好吧  但如果你告诉我
+Okay, fine, but if you could just point me towards
+
+437
+00:17:10,870 --> 00:17:12,380
+金桔·麦格利卡迪的办公室在哪
+Kumquat McGillicuddy's office,
+
+438
+00:17:12,380 --> 00:17:13,640
+我就不缠着你了
+I'll be on my way,
+
+439
+00:17:13,740 --> 00:17:16,210
+因为我可没有带着两封假邮件
+because I certainly did not bike down here
+
+440
+00:17:16,210 --> 00:17:18,390
+专门骑车过来就是为了告诉你
+with two fictitious deliveries just to tell you
+
+441
+00:17:18,390 --> 00:17:20,540
+我昨晚很开心
+what a great time I had last night.
+
+442
+00:17:20,660 --> 00:17:23,430
+那就好  因为我有一大堆活要干
+Good, because I have a lot of work to do.
+
+443
+00:17:23,430 --> 00:17:25,920
+所以  如果你能跳上你那辆小自行车...
+So, if you could please just hop on that little bike of yours--
+
+444
+00:17:25,920 --> 00:17:27,330
+-克莱尔  -怎么了
+- Claire? - Yeah.
+
+445
+00:17:28,020 --> 00:17:29,610
+等你跟这位快递员调完情
+When you're finished flirting with Quicksilver here,
+
+446
+00:17:29,610 --> 00:17:31,230
+最好去趟移民局
+you might want to get down to INS.
+
+447
+00:17:31,230 --> 00:17:33,250
+海克特·苏雷兹刚刚被带走了
+Hector Suarez just got taken in.
+
+448
+00:17:33,250 --> 00:17:35,390
+见鬼  他的签证到期了
+Shit. His visa's expired.
+
+449
+00:17:35,390 --> 00:17:37,210
+他们会把他遣返回多米尼加共和国的
+They're gonna send him back to the Dominican Republic.
+
+450
+00:17:37,210 --> 00:17:38,970
+等一下  或许我能帮忙
+Wait. Maybe I can help.
+
+451
+00:17:39,860 --> 00:17:40,900
+不是我看不起你  但我觉得你帮不上...
+No offense, I don't see how you can--
+
+452
+00:17:40,900 --> 00:17:42,660
+不  不  纳森  他不光是个送信员
+No, no, no, Nathan, he's not just a bike messenger.
+
+453
+00:17:42,660 --> 00:17:43,940
+他在念法学院
+He's in law school.
+
+454
+00:17:44,170 --> 00:17:45,450
+真的吗
+Really?
+
+455
+00:17:45,460 --> 00:17:47,300
+-那个学校的法学院  -哥伦比亚大学
+- Where are you in law school? - Columbia.
+
+456
+00:17:47,300 --> 00:17:49,820
+他还恰巧比咱俩都了解签证
+And he happens to know visas better than either one of us.
+
+457
+00:17:50,700 --> 00:17:52,220
+但我没法付你钱  所以...
+Well, I really can't pay you, so...
+
+458
+00:17:52,220 --> 00:17:54,170
+不  不用给钱
+No, I don't need any money.
+
+459
+00:17:54,170 --> 00:17:55,210
+我只是想帮忙而已
+I just want to help.
+
+460
+00:17:55,210 --> 00:17:57,460
+好吧  哥伦比亚小伙  看你的了
+All right, Columbia, be my guest.
+
+461
+00:17:57,460 --> 00:17:59,590
+周二早上九点有个听证会
+Got a hearing Tuesday morning, 9:00 A.M.
+
+462
+00:18:00,640 --> 00:18:03,340
+迈克  太好了  谢谢你
+Mike, that is amazing. Thank you.
+
+463
+00:18:03,340 --> 00:18:05,770
+先别急着谢我  我还什么都没...
+Oh, no, don't thank me yet. I haven't even done any--
+
+464
+00:18:12,360 --> 00:18:16,640
+可能跟这事没什么关系  但我今天早上
+Um, this might not be relevant, but I actually saved
+
+465
+00:18:16,640 --> 00:18:19,640
+救了金桔·麦格利卡迪一命  所以...
+Kumquat McGillicuddy's life this morning, so...
+
+466
+00:18:21,450 --> 00:18:23,020
+我得去准备一下了
+I'm gonna go do some work.
+
+467
+00:18:24,300 --> 00:18:25,690
+谢谢
+Thank you.
+
+468
+00:18:27,970 --> 00:18:30,740
+麦肯诺先生  我是哈维·斯佩克特
+Mr. McKernon, Harvey Specter.
+
+469
+00:18:31,330 --> 00:18:34,000
+斯佩克特先生  你能给我解释一下为什么
+Mr. Specter, would you mind telling me why I have
+
+470
+00:18:34,000 --> 00:18:35,940
+我今天要与皮尔逊·哈德曼律所的
+two different Pearson Hardman lawyers
+
+471
+00:18:35,940 --> 00:18:36,820
+两个律师见面吗
+on my schedule today?
+
+472
+00:18:36,820 --> 00:18:38,180
+我不知道  但跟我谈完
+I don't know, but after this,
+
+473
+00:18:38,180 --> 00:18:39,740
+你就不需要见另一个了
+you won't need to meet the other one.
+
+474
+00:18:39,740 --> 00:18:40,770
+你还真是自以为是
+You're cocky.
+
+475
+00:18:40,770 --> 00:18:41,750
+我不说错话
+I'm right.
+
+476
+00:18:41,750 --> 00:18:43,280
+你也没带多少东西来
+You're also traveling a little light.
+
+477
+00:18:43,280 --> 00:18:45,540
+你的幻灯片展示呢
+Where's your PowerPoint presentation?
+
+478
+00:18:45,540 --> 00:18:47,730
+我不需要幻灯片展示
+I don't need a PowerPoint presentation.
+
+479
+00:18:48,010 --> 00:18:48,980
+为什么
+Why is that?
+
+480
+00:18:48,980 --> 00:18:51,590
+因为这座城里每个律师都试过征服你
+Because every lawyer in the city has tried to dazzle you,
+
+481
+00:18:51,590 --> 00:18:54,060
+你却仍在寻找合适的人选
+and you're still looking for a date to the big dance,
+
+482
+00:18:54,060 --> 00:18:56,680
+那是因为他们不知道你看重什么
+because they don't know what you're looking for.
+
+483
+00:18:58,170 --> 00:19:00,210
+你说我看重什么
+What exactly am I looking for?
+
+484
+00:19:00,920 --> 00:19:02,230
+忠诚
+Loyalty.
+
+485
+00:19:04,140 --> 00:19:05,410
+没错
+You're right.
+
+486
+00:19:06,490 --> 00:19:08,480
+我白手起家建立起这间公司
+I built this company from the ground up,
+
+487
+00:19:09,060 --> 00:19:11,280
+跟我共同奋斗的人仍陪在我身旁
+and everybody that started with me is still here.
+
+488
+00:19:11,280 --> 00:19:12,300
+我知道原因
+And I know why.
+
+489
+00:19:12,300 --> 00:19:14,030
+不景气的时候不裁员
+You don't downsize in the bad times.
+
+490
+00:19:14,030 --> 00:19:15,930
+到了好时候他们自然不离不弃
+They stick with you in the good times.
+
+491
+00:19:15,930 --> 00:19:18,360
+别的律师都没想明白这点
+And no other lawyer has figured that out.
+
+492
+00:19:18,360 --> 00:19:19,610
+除了一个人
+Not a single one.
+
+493
+00:19:19,610 --> 00:19:21,020
+那就是我  艾弗里
+Well, I'm the one, Avery,
+
+494
+00:19:21,020 --> 00:19:23,600
+所以我知道你不希望我放弃你
+which is why I know you don't want me dumping you
+
+495
+00:19:23,600 --> 00:19:26,330
+投向另一个更大的客户
+for a bigger client down the line.
+
+496
+00:19:26,330 --> 00:19:28,190
+我怎么知道你不会这么做
+How do I know you won't do that?
+
+497
+00:19:28,660 --> 00:19:30,760
+因为这不是我的工作风格
+Because that's not the way I work.
+
+498
+00:19:31,060 --> 00:19:33,000
+说的倒是好听
+Well, it's a hell of a nice sentiment.
+
+499
+00:19:33,000 --> 00:19:34,950
+但我怎么知道你不是信口雌黄
+But how do I know you're not full of shit?
+
+500
+00:19:35,590 --> 00:19:37,250
+我很高兴你这么问
+I'm glad you asked,
+
+501
+00:19:37,310 --> 00:19:41,660
+因为这就是我的幻灯片
+because here's my PowerPoint presentation.
+
+502
+00:19:55,930 --> 00:19:57,190
+好吧
+Okay...
+
+503
+00:19:57,860 --> 00:20:00,820
+我明天有个听证会  对方是弗莱彻引擎公司
+I have a hearing tomorrow against Fletcher Engines.
+
+504
+00:20:01,540 --> 00:20:03,940
+要是胜诉  你就是我的律师
+You win that, you're my lawyer.
+
+505
+00:20:13,010 --> 00:20:14,150
+别换车道
+Ok, just don't change lanes,
+
+506
+00:20:14,150 --> 00:20:14,980
+别换车道
+don't change lanes.
+
+507
+00:20:14,980 --> 00:20:16,830
+别换  真棒  好吧  知道吗
+Don't do this. Great. Okay, you know what?
+
+508
+00:20:16,830 --> 00:20:19,410
+太荒唐了  你开车跟个野蛮的动物似的
+This is ridiculous. You drive like a savage animal.
+
+509
+00:20:19,410 --> 00:20:21,150
+路易  男人点  忍着吧
+Louis, be a man and suck it up.
+
+510
+00:20:21,150 --> 00:20:22,850
+忍着  我坐在死亡座椅上
+Suck it up? I'm sitting in the death seat.
+
+511
+00:20:22,850 --> 00:20:25,270
+好吧  我靠边停车  你到后面跟迈克坐
+Fine. I'll pull over, and you can sit in the back with Mike.
+
+512
+00:20:25,270 --> 00:20:27,330
+我可不跟一个骗子坐在后面
+Hey, I'm not sitting in the back with a fraud,
+
+513
+00:20:27,330 --> 00:20:29,480
+你想都别想让他坐前面
+and before you even think it, you're not putting him up here
+
+514
+00:20:29,480 --> 00:20:30,550
+把我塞到后面
+and sticking me back there.
+
+515
+00:20:30,550 --> 00:20:31,560
+那你想怎么办  路易
+Then what do you want, Louis?
+
+516
+00:20:31,560 --> 00:20:32,970
+我不可能让你
+Because there is no way in hell
+
+517
+00:20:32,970 --> 00:20:34,660
+来开车
+I'm letting you behind the wheel of this car.
+
+518
+00:20:34,660 --> 00:20:36,740
+解决办法显而易见
+It's crystal goddamn clear.
+
+519
+00:20:36,970 --> 00:20:38,810
+我们坐在后座  让他当我俩的司机
+You and I sit in the back, and he chauffeurs the both of us.
+
+520
+00:20:38,810 --> 00:20:41,490
+这可不行  就算哈维同意
+Whoa, no. Even if Harvey would agree to that,
+
+521
+00:20:41,490 --> 00:20:42,620
+-我对此深表怀疑  -你闭嘴吧
+- which I doubt-- - Shut the hell up.
+
+522
+00:20:42,620 --> 00:20:44,000
+你没有发言权  没有拒绝的资格
+You're not talking. You don't get to refuse.
+
+523
+00:20:44,000 --> 00:20:47,500
+我不是拒绝  路易  我不会开车
+I'm not refusing, Louis. I don't know how to drive.
+
+524
+00:20:49,720 --> 00:20:50,940
+真他妈见鬼
+Holy shit.
+
+525
+00:20:57,260 --> 00:20:58,410
+你想见我
+You wanted to see me?
+
+526
+00:20:58,410 --> 00:20:59,720
+是的
+Uh, yes.
+
+527
+00:20:59,720 --> 00:21:01,750
+我听说艾弗里·麦肯诺那边你干得不错
+I heard you did well with Avery McKernon.
+
+528
+00:21:01,750 --> 00:21:03,490
+那你可听错了
+Well, then you heard wrong,
+
+529
+00:21:03,590 --> 00:21:06,280
+因为我搞定艾弗里·麦肯诺了
+because I killed it with Avery McKernon.
+
+530
+00:21:06,790 --> 00:21:08,790
+-恭喜你  哈维  -谢谢  丹尼尔
+- Congratulations, Harvey. - Thank you, Daniel.
+
+531
+00:21:08,790 --> 00:21:10,140
+不客气
+You're welcome.
+
+532
+00:21:10,670 --> 00:21:14,200
+不幸的是  我们不能代表麦肯诺马达公司
+Unfortunately, we can't represent McKernon Motors after all.
+
+533
+00:21:14,490 --> 00:21:15,230
+为什么不行
+Why not?
+
+534
+00:21:15,230 --> 00:21:18,260
+因为弗莱彻引擎公司想跟我们签约
+Well, it turns out Fletcher Engines wants to sign with us.
+
+535
+00:21:18,260 --> 00:21:20,800
+因为他们发现我就要拿下麦肯诺
+Because they found out I'm about to land McKernon.
+
+536
+00:21:20,800 --> 00:21:21,740
+没错
+Yes,
+
+537
+00:21:21,740 --> 00:21:24,100
+而且他们规模是麦肯诺汽车公司的三倍
+and they're three times the size of McKernon Motors.
+
+538
+00:21:24,100 --> 00:21:25,460
+我才不管他们规模多大
+Well, I don't care how big they are.
+
+539
+00:21:25,460 --> 00:21:27,230
+我不会放弃我的客户
+I'm not dropping my client.
+
+540
+00:21:27,990 --> 00:21:30,690
+你得放弃
+Yes, you are.
+
+541
+00:21:32,920 --> 00:21:34,830
+你一早就计划好了
+This was your plan all along.
+
+542
+00:21:34,830 --> 00:21:36,900
+没错  这世界就是这样的
+Of course it was. That's how the world works.
+
+543
+00:21:36,900 --> 00:21:39,100
+我不管这世界怎么样
+I don't give a shit how the world works.
+
+544
+00:21:39,100 --> 00:21:41,110
+我向艾弗里·麦肯诺保证过
+I gave my word to Avery McKernon.
+
+545
+00:21:41,110 --> 00:21:41,880
+小心点  哈维
+Watch yourself, Harvey.
+
+546
+00:21:41,880 --> 00:21:44,800
+我走到今天靠的不是小心翼翼  丹尼尔
+I haven't gotten where I am by watching myself, Daniel.
+
+547
+00:21:44,800 --> 00:21:48,090
+我也不喜欢被人用来打掩护
+And I don't appreciate being used as a stalking horse.
+
+548
+00:21:48,230 --> 00:21:51,830
+你可以不喜欢  但我提醒你
+Well, you may not appreciate it, but let me remind you,
+
+549
+00:21:51,830 --> 00:21:53,220
+我是你的老板
+you work for me.
+
+550
+00:21:53,480 --> 00:21:56,600
+我在给你机会证明你懂
+And I'm giving you the chance to show me you understand that.
+
+551
+00:21:57,700 --> 00:22:00,510
+别忘了  你说过要增加合伙人
+Let me remind you you said partnership was on the table.
+
+552
+00:22:00,510 --> 00:22:03,270
+我不会让你食言的  杰西卡也不会
+I'm gonna hold you to that, and so will Jessica.
+
+553
+00:22:12,930 --> 00:22:14,330
+吃屁鬼
+Hey, fart taster.
+
+554
+00:22:14,330 --> 00:22:15,710
+我还以为你会来我家
+I thought you were coming over.
+
+555
+00:22:17,340 --> 00:22:19,790
+怎么了  这个名字很经典
+What, nothing? It's a classic.
+
+556
+00:22:19,790 --> 00:22:20,790
+我是指你的工作就是在...
+I'm implying your job is to literally taste--
+
+557
+00:22:20,790 --> 00:22:22,680
+特雷弗  我正在忙
+Hey, Trevor, I'm in the middle of something,
+
+558
+00:22:22,680 --> 00:22:24,470
+我一会儿去找你好吗
+so I'll come over later, okay?
+
+559
+00:22:24,470 --> 00:22:25,780
+忙什么
+In the middle of what?
+
+560
+00:22:26,100 --> 00:22:27,660
+我跟你提过的那个女孩
+That girl I told you about,
+
+561
+00:22:27,660 --> 00:22:30,010
+她在法律援助所实习
+she interns at a legal clinic,
+
+562
+00:22:30,010 --> 00:22:32,410
+我正在帮她处理一个案子
+and I am helping her with a case.
+
+563
+00:22:32,410 --> 00:22:33,500
+"蠢咖"还给你布置作业了
+Dickfoot gave you homework?
+
+564
+00:22:33,500 --> 00:22:36,790
+第一  从现在开始叫她克莱尔
+Okay, first of all, from now on, her name is Claire.
+
+565
+00:22:36,790 --> 00:22:39,350
+第二  这活儿很重要  所以...
+And second of all, this is important, so...
+
+566
+00:22:39,350 --> 00:22:42,350
+老兄  你在说什么
+Dude, what the hell are you talking about?
+
+567
+00:22:46,030 --> 00:22:49,390
+我好像骗她说我在读法学院
+I might have told her that I'm in law school.
+
+568
+00:22:49,720 --> 00:22:50,990
+我了个去
+Holy shit.
+
+569
+00:22:51,250 --> 00:22:52,520
+为了滚床单你什么都做得出来啊
+You will do anything to get laid.
+
+570
+00:22:52,520 --> 00:22:54,060
+我不是为了滚床单
+I am not trying to get laid.
+
+571
+00:22:54,060 --> 00:22:55,610
+我真的很喜欢这个女孩
+I really like this girl, 
+
+572
+00:22:55,610 --> 00:22:57,160
+如果只是个送信的
+and I have zero chance with her
+
+573
+00:22:57,160 --> 00:22:58,740
+我没机会和她在一起
+if all I am is a bike messenger.
+
+574
+00:22:58,740 --> 00:23:00,430
+对  但等她发现你骗她
+Yeah, well, you're definitely gonna have no chance
+
+575
+00:23:00,430 --> 00:23:01,820
+你就更不可能有机会了
+if she finds out that you lied to her.
+
+576
+00:23:01,820 --> 00:23:04,280
+特雷弗  我不想再跟你谈这个了
+Trevor, I don't want to talk about this anymore.
+
+577
+00:23:05,500 --> 00:23:07,450
+你什么都不想再谈了
+You don't really want to talk about anything anymore.
+
+578
+00:23:12,060 --> 00:23:13,250
+和公寓有关  是吗
+It's about the apartment, isn't it?
+
+579
+00:23:13,250 --> 00:23:15,600
+-没错  -好吧  要听实话吗
+- Yes it's about the apartment. - Okay, you want the truth?
+
+580
+00:23:16,240 --> 00:23:18,520
+我没答复你是因为奶奶
+I haven't given you an answer because of Grammy.
+
+581
+00:23:18,520 --> 00:23:19,310
+你以为我不知道
+You think I didn't know that?
+
+582
+00:23:19,310 --> 00:23:20,980
+你也知道她不会原谅你
+Then you know she's never forgiven you
+
+583
+00:23:20,980 --> 00:23:22,220
+大学时做的那些事
+for what happened in college,
+
+584
+00:23:22,220 --> 00:23:24,520
+她是绝对不可能让我和你一起住的
+and she is never, ever going to let me live with you.
+
+585
+00:23:24,520 --> 00:23:26,450
+那就她解释  我是为了
+Then explain to her that this is my way
+
+586
+00:23:26,450 --> 00:23:28,000
+为大学时的错误做补偿
+of making up for what I did in college.
+
+587
+00:23:28,000 --> 00:23:29,120
+没用的
+That is never gonna work.
+
+588
+00:23:29,120 --> 00:23:30,910
+知道吗  迈克尔
+You know what, Michael?
+
+589
+00:23:31,360 --> 00:23:34,640
+如果你能为刚遇见的女孩这么努力
+If you're gonna do all of this for some girl you just met,
+
+590
+00:23:34,660 --> 00:23:37,260
+或许你该在奶奶面前替我说说话了
+maybe it's time you stood up to Grammy for me.
+
+591
+00:23:42,330 --> 00:23:44,560
+和弗莱彻引擎打的怎么样
+How'd it go against Fletcher Engines?
+
+592
+00:23:44,680 --> 00:23:46,870
+把他们打断了腿还是打趴在地
+You cut them off at the knees or put them in the ground?
+
+593
+00:23:46,870 --> 00:23:48,290
+他们把我打趴在地了
+They put me in the ground,
+
+594
+00:23:48,290 --> 00:23:51,200
+更惨的是  还当着艾弗里·麦肯诺的面
+and on top of that, it was in front of Avery McKernon.
+
+595
+00:23:51,220 --> 00:23:52,620
+你败诉了
+You lost in court?
+
+596
+00:23:52,620 --> 00:23:55,060
+不仅败诉  还败得像个傻瓜
+I didn't just lose. I looked like a fool.
+
+597
+00:23:56,120 --> 00:23:57,080
+哈维  怎么了
+Harvey, what happened?
+
+598
+00:23:57,080 --> 00:23:58,910
+弗莱彻引擎公司的律师
+The general counsel for Fletcher Engines
+
+599
+00:23:58,910 --> 00:24:01,300
+早就清楚我的每一步策略
+knew every move I was gonna make before I even made it.
+
+600
+00:24:01,300 --> 00:24:01,940
+这怎么可能...
+How could he--
+
+601
+00:24:01,940 --> 00:24:04,330
+因为哈德曼提醒过他了
+Because Hardman must have tipped him off.
+
+602
+00:24:04,330 --> 00:24:05,440
+你真觉得他会那么做吗
+You really think he would do that?
+
+603
+00:24:05,440 --> 00:24:08,110
+我昨天还不确定  今天非常肯定
+I wouldn't have yesterday, but I sure as hell do today.
+
+604
+00:24:08,110 --> 00:24:09,280
+那你得去找杰西卡
+Then you have to go to Jessica.
+
+605
+00:24:09,280 --> 00:24:10,660
+说什么
+And say what?
+
+606
+00:24:10,950 --> 00:24:13,590
+哈德曼是管理合伙人  而她不是
+Hardman's managing partner. She's not.
+
+607
+00:24:13,590 --> 00:24:15,720
+我没有证据  也不可能拿到
+I don't have any proof, and I never will.
+
+608
+00:24:15,720 --> 00:24:17,000
+那你打算怎么做
+Well, then what are you gonna do?
+
+609
+00:24:17,000 --> 00:24:19,420
+不知道  但我还有不到14个小时
+I don't know, but I have less than 14 hours
+
+610
+00:24:19,420 --> 00:24:22,130
+去翻那1000页的专利权法
+to dig through 1,000 pages of patent law.
+
+611
+00:24:23,230 --> 00:24:25,900
+要是律所里恰好有个精通专利权法的人
+If only there was somebody in the office who was an expert
+
+612
+00:24:25,900 --> 00:24:26,640
+就好了
+on patent law.
+
+613
+00:24:26,640 --> 00:24:28,760
+唐娜  我不会去找路易的
+Donna, I am not going to Louis.
+
+614
+00:24:28,760 --> 00:24:29,840
+他绝对不会帮我
+He'll never help me.
+
+615
+00:24:29,840 --> 00:24:32,100
+那真糟糕  如果你不懂
+Well, that's too bad, because if you can't figure out
+
+616
+00:24:32,100 --> 00:24:33,710
+如何与路易和好如初
+how to patch things up with Louis,
+
+617
+00:24:33,710 --> 00:24:35,790
+那你也配不上艾弗里·麦肯诺这客户
+then you don't deserve Avery McKernon
+
+618
+00:24:35,910 --> 00:24:37,270
+以及合伙人的身份
+or that partnership.
+
+619
+00:24:42,900 --> 00:24:44,360
+这是为了什么
+What's all this?
+
+620
+00:24:46,420 --> 00:24:50,290
+孙子就不能为奶奶点餐到家
+Uh, a grandson can't order in and set a table
+
+621
+00:24:50,290 --> 00:24:51,620
+布置餐具吗
+for his grandmother?
+
+622
+00:24:52,140 --> 00:24:54,020
+孙子想做什么都可以
+A grandson can do whatever he wants.
+
+623
+00:24:54,020 --> 00:24:56,710
+但答案还是不行
+But the answer to your question is no.
+
+624
+00:24:58,260 --> 00:24:59,980
+你还没听我的请求呢
+You haven't even heard what it is yet.
+
+625
+00:24:59,980 --> 00:25:02,270
+我知道是什么  因为我从你一毕业
+I know what it is, because I've been waiting for it
+
+626
+00:25:02,270 --> 00:25:03,800
+就在等你问我
+since that kid graduated,
+
+627
+00:25:03,800 --> 00:25:06,120
+你不能和他一起住
+and you are not gonna live with him.
+
+628
+00:25:06,120 --> 00:25:09,820
+是他害你被学校开除
+That boy is the reason you got kicked out of school.
+
+629
+00:25:09,820 --> 00:25:12,630
+是你让我把实情告诉院长的
+You're the one that told me to tell the dean the truth.
+
+630
+00:25:12,630 --> 00:25:15,050
+那是在我知道你会被开除之前
+That was before I knew it would cost you graduating.
+
+631
+00:25:15,050 --> 00:25:16,750
+他现在想补偿我
+And he's trying to make it up to me.
+
+632
+00:25:16,750 --> 00:25:19,120
+他会替我付一整年的房租
+He's gonna pay for my whole first year's rent.
+
+633
+00:25:19,120 --> 00:25:22,100
+这不能弥补他把你的人生
+That will not make up for putting your whole life
+
+634
+00:25:22,100 --> 00:25:23,250
+搅得天翻地覆
+into a tailspin.
+
+635
+00:25:23,250 --> 00:25:25,620
+-这是好的开始  -不  这不是
+- It's a head start. - No, it's not a head start!
+
+636
+00:25:25,620 --> 00:25:27,500
+那孩子会再次把你拖入泥潭
+That boy is gonna drag you back down with him!
+
+637
+00:25:27,500 --> 00:25:28,830
+奶奶  我不会让这种事发生的
+Grammy, I'm never gonna let that happen!
+
+638
+00:25:28,830 --> 00:25:31,100
+该死的  我不允许
+God damn it! I forbid it!
+
+639
+00:25:38,400 --> 00:25:40,940
+抱歉  迈克尔  我失控了
+I'm sorry, Michael. I lost my temper.
+
+640
+00:25:40,940 --> 00:25:44,460
+但我知道他对你做了什么
+But I know what he does to you,
+
+641
+00:25:44,460 --> 00:25:47,870
+我也知道他不会改变
+and I know he'll always be the same.
+
+642
+00:25:49,800 --> 00:25:52,200
+你想过或许我和以前不一样了吗
+Has it occurred to you that maybe I'm not the same?
+
+643
+00:25:52,800 --> 00:25:54,280
+哪儿不一样了
+What's changed?
+
+644
+00:25:55,000 --> 00:25:56,350
+我遇到了一个人
+I met someone.
+
+645
+00:25:58,880 --> 00:26:01,420
+我会想办法完成学业
+And I'm gonna figure out a way to finish school, and...
+
+646
+00:26:03,110 --> 00:26:04,840
+然后我要去读法学院
+and then I'm gonna go to law school.
+
+647
+00:26:06,580 --> 00:26:07,810
+很好
+Good.
+
+648
+00:26:08,460 --> 00:26:10,280
+那就在这里努力
+Then do it from here
+
+649
+00:26:18,940 --> 00:26:20,550
+你在想什么  迈克
+What's on your mind, Mike?
+
+650
+00:26:20,550 --> 00:26:22,320
+你看起来在沉思
+You look lost in thought.
+
+651
+00:26:24,120 --> 00:26:26,340
+我只是想到了我奶奶
+I was just thinking about my grandmother.
+
+652
+00:26:27,940 --> 00:26:30,750
+我们曾坐火车去过一次特区
+We took a train trip to D.C. once.
+
+653
+00:26:32,630 --> 00:26:34,150
+玩《谁是间谍》的游戏
+We played I Spy.
+
+654
+00:26:34,440 --> 00:26:37,290
+故事很动人  迈克  但我们不会玩的
+That's a nice story, Mike, but we are not playing I Spy.
+
+655
+00:26:37,290 --> 00:26:39,970
+我玩  让我想起去看臭烘烘的芙丽塔的路上
+I'll play. It'll remind me of Dominating Esther on our trips
+
+656
+00:26:39,970 --> 00:26:41,430
+玩的《独裁者以斯帖》
+to see our smelly Aunt Frida.
+
+657
+00:26:41,430 --> 00:26:44,630
+好吧  如果这能让你和迈克说说话
+All right, if it will get you and Mike talking, sure.
+
+658
+00:26:45,230 --> 00:26:46,380
+我侦查到一个骗子
+I spy a fraud 
+
+659
+00:26:46,380 --> 00:26:48,670
+他可能从来都不了解自己奶奶
+who probably never even knew his grandmother.
+
+660
+00:26:49,100 --> 00:26:50,810
+够了  你如果对我有意见
+All right, God damn it, you got a problem with me,
+
+661
+00:26:50,810 --> 00:26:51,540
+直接跟我说
+take it up with me, 
+
+662
+00:26:51,550 --> 00:26:53,150
+别扯到我奶奶身上
+but don't ever talk about my grandmother again.
+
+663
+00:26:53,150 --> 00:26:53,890
+我差点忘了
+Oh, I forgot,
+
+664
+00:26:53,890 --> 00:26:55,950
+那个从纽约来的可怜孤儿
+the poor orphan from New York City
+
+665
+00:26:55,950 --> 00:26:58,490
+我应该为他从没学过开车而感到同情
+who I should feel sorry for because he never learned to drive.
+
+666
+00:26:58,490 --> 00:26:59,660
+我警告你  管好自己的嘴
+I'm telling you, watch yourself.
+
+667
+00:26:59,660 --> 00:27:00,780
+为什么  因为我伤害你感情了吗
+Why? Because I hurt your feelings?
+
+668
+00:27:00,780 --> 00:27:01,670
+-路易  -我才不在乎呢
+- Louis! - I don't care.
+
+669
+00:27:01,670 --> 00:27:03,050
+据我所知  你可能根本不是个孤儿
+For all I know, you're probably not even an orphan.
+
+670
+00:27:03,050 --> 00:27:03,590
+路易
+Louis!
+
+671
+00:27:03,590 --> 00:27:05,860
+骗子讲这类故事
+It sure as hell wouldn't be the first time a con man
+
+672
+00:27:05,860 --> 00:27:06,870
+可不是第一回了
+tried to make that claim.
+
+673
+00:27:06,870 --> 00:27:08,050
+-够了  -不  不够
+- That's enough. - No, it isn't.
+
+674
+00:27:08,050 --> 00:27:09,900
+确实够了  靠边停车
+Yes, it is. Pull the car over right now.
+
+675
+00:27:09,900 --> 00:27:11,580
+我要好好揍他一顿
+I'm gonna beat the shit out of him.
+
+676
+00:27:19,460 --> 00:27:20,710
+你有空吗
+Hey, you got a minute?
+
+677
+00:27:20,710 --> 00:27:22,450
+等等  让我先转过身
+Oh, wait. Let me turn my back,
+
+678
+00:27:22,450 --> 00:27:23,700
+找个合适的角度让你捅...
+so I can give you the right angle to---
+
+679
+00:27:23,700 --> 00:27:26,670
+你是对的  我们本该团结一致的
+You were right. We should have stuck together.
+
+680
+00:27:28,030 --> 00:27:29,520
+我知道了  你想让我帮忙
+I get it-- you need my help,
+
+681
+00:27:29,520 --> 00:27:31,980
+因为你今天早晨被打了个屁滚尿流
+because you got your ass wiped in court this morning.
+
+682
+00:27:31,980 --> 00:27:35,320
+你说得对  我今天早晨确实被打败了
+You're right. I did get my ass kicked this morning,
+
+683
+00:27:35,320 --> 00:27:37,080
+但那并不是一场公平的战斗
+but it wasn't a fair fight.
+
+684
+00:27:37,170 --> 00:27:37,940
+你在说什么
+What are you talking about?
+
+685
+00:27:37,940 --> 00:27:39,820
+哈德曼登陆了我的电脑
+Hardman accessed my computer
+
+686
+00:27:39,820 --> 00:27:42,160
+把我的计划发给了对手
+and fed the other side my game plan.
+
+687
+00:27:42,830 --> 00:27:44,650
+你说的这些
+Okay, I'm still waiting for the part
+
+688
+00:27:44,650 --> 00:27:45,680
+我毫不关心
+where I'm supposed to give a shit.
+
+689
+00:27:45,680 --> 00:27:48,130
+哈德曼这样做是因为我拒绝为了弗莱彻
+Hardman did it because I refused to dump McKernon
+
+690
+00:27:48,130 --> 00:27:50,160
+对我承诺过的麦肯诺食言
+for Fletcher after I gave him my word.
+
+691
+00:27:50,160 --> 00:27:51,170
+你也一直对我食言
+And why should I help you
+
+692
+00:27:51,170 --> 00:27:52,580
+我又为什么要帮你
+when you couldn't live up to your word to me?
+
+693
+00:27:52,580 --> 00:27:54,080
+我没有对你食言
+I did live up to my word.
+
+694
+00:27:54,080 --> 00:27:55,820
+-我们一起去找了丹尼尔  -胡扯
+- We went to Daniel-- - Oh, bullshit.
+
+695
+00:27:55,820 --> 00:27:57,340
+不  这不是胡扯
+No, it's not bullshit.
+
+696
+00:27:57,340 --> 00:27:59,390
+我欣然接受了你的意见
+I welcomed your idea with open arms,
+
+697
+00:27:59,390 --> 00:28:01,490
+而且当他问这是谁的主意时
+and by the way, when he asked whose idea it was,
+
+698
+00:28:01,490 --> 00:28:02,530
+我把功劳全给了你
+I gave you the credit.
+
+699
+00:28:02,530 --> 00:28:05,270
+哈维  这就是你不明白的地方
+You see, Harvey, that's the part you will never understand.
+
+700
+00:28:05,270 --> 00:28:07,090
+我不想要什么功劳
+I didn't want the credit.
+
+701
+00:28:07,680 --> 00:28:09,050
+我想要我们成为一个团队
+I wanted us to be a team.
+
+702
+00:28:09,050 --> 00:28:10,310
+那让我们成为一个团队
+Then let's be a team right now.
+
+703
+00:28:10,310 --> 00:28:11,690
+可你并不真心想要一个团队
+But you don't want to be a team.
+
+704
+00:28:11,690 --> 00:28:12,970
+你想要让我帮你搞定麦肯诺
+You want me to help you get McKernon
+
+705
+00:28:12,970 --> 00:28:14,120
+你好当上合伙人
+so you can make partner.
+
+706
+00:28:14,120 --> 00:28:17,470
+我希望你帮我实现我对艾弗里·麦肯诺的承诺
+I want you to help me so I can keep my word to Avery McKernon.
+
+707
+00:28:17,470 --> 00:28:19,070
+然后等我当上合伙人以后
+And when I become partner,
+
+708
+00:28:19,070 --> 00:28:21,200
+我会严守我对你的承诺
+I'll keep my word to you.
+
+709
+00:28:22,580 --> 00:28:23,900
+什么承诺
+What the hell word is that?
+
+710
+00:28:23,900 --> 00:28:26,480
+承诺有一天你写在餐巾纸上的那些字
+That someday what you wrote on that napkin
+
+711
+00:28:26,480 --> 00:28:28,510
+能够真正挂在那面墙上
+goes up on the goddamn wall.
+
+712
+00:28:34,590 --> 00:28:36,280
+看起来你很用功啊  迈克
+You seem to have done a lot of work here, Mike.
+
+713
+00:28:36,280 --> 00:28:37,540
+没什么大不了的
+Oh, it's no big deal.
+
+714
+00:28:37,540 --> 00:28:38,880
+这很重要
+It is a big deal.
+
+715
+00:28:39,420 --> 00:28:42,370
+迈克在1975年移民法中找到了一个漏洞
+Mike found a loophole in the Immigration Act of 1975,
+
+716
+00:28:42,370 --> 00:28:44,000
+会让你大吃一惊的
+and it's gonna blow you away.
+
+717
+00:28:44,000 --> 00:28:45,020
+那我说不准
+I don't know about that,
+
+718
+00:28:45,020 --> 00:28:47,320
+不过这确实可能帮海克特·苏雷兹留下
+but it may help Hector Suarez stay in the country.
+
+719
+00:28:47,320 --> 00:28:48,430
+那太棒了
+That's great.
+
+720
+00:28:48,430 --> 00:28:50,940
+而且我非常欢迎你留下看庭审情况
+And you're more than welcome to stay and watch.
+
+721
+00:28:51,030 --> 00:28:51,870
+不幸的是  克莱尔
+Unfortunately, Claire,
+
+722
+00:28:51,870 --> 00:28:53,220
+我需要你回办公室一趟
+I need you to run back to the office.
+
+723
+00:28:53,220 --> 00:28:54,330
+马歇尔请病假了
+Marshall called in sick.
+
+724
+00:28:54,330 --> 00:28:56,480
+我需要有人接待无预约委托人  所以
+I need someone to handle the walk-ins, so...
+
+725
+00:28:57,300 --> 00:28:58,560
+好吧
+Okay.
+
+726
+00:29:00,060 --> 00:29:02,140
+打电话告诉我情况怎么样
+Call me. Tell me how it goes.
+
+727
+00:29:02,580 --> 00:29:03,890
+好
+Yeah.
+
+728
+00:29:12,430 --> 00:29:13,350
+你这是在干什么  那...
+What the hell are you doing? That's--
+
+729
+00:29:13,350 --> 00:29:15,420
+帮海克特·苏雷兹留下
+Gonna keep Hector Suarez in the country?
+
+730
+00:29:16,250 --> 00:29:17,050
+是啊
+Yeah.
+
+731
+00:29:17,050 --> 00:29:18,860
+没有任何办法能帮他留下
+Yeah, nothing's gonna keep him in the country.
+
+732
+00:29:18,860 --> 00:29:20,520
+我要做的就是帮他争取一点时间
+So what I'm going to do is I'm gonna buy him some time
+
+733
+00:29:20,520 --> 00:29:22,060
+让他把事情安排好
+so he can get his affairs in order,
+
+734
+00:29:22,060 --> 00:29:24,280
+然后我会争取让他的孩子有机会留下
+and then I'm gonna give his children a chance to stay.
+
+735
+00:29:24,280 --> 00:29:26,160
+我只是...  抱歉
+I'm just--I'm--I'm sorry.
+
+736
+00:29:26,160 --> 00:29:29,230
+你是在嫉妒我和克莱尔吗
+Are you jealous of me and Claire or...
+
+737
+00:29:29,430 --> 00:29:31,420
+我没有嫉妒  而且我一直
+Hey, look, I'm not jealous, and I was waiting
+
+738
+00:29:31,420 --> 00:29:33,680
+等到她离开  免得你尴尬
+for her to leave to save you the embarrassment.
+
+739
+00:29:33,680 --> 00:29:35,280
+尴尬什么
+The embarrassment of what?
+
+740
+00:29:35,280 --> 00:29:36,010
+我的工作做得很好
+That's good work.
+
+741
+00:29:36,010 --> 00:29:37,800
+我说的不是这个
+I'm not talking about the work.
+
+742
+00:29:38,040 --> 00:29:40,440
+我说的是你那套"白天送信 
+I'm talking about your "bike messenger by day,
+
+743
+00:29:40,440 --> 00:29:42,060
+晚上上法学院"的胡话
+law student by night" bullshit.
+
+744
+00:29:42,060 --> 00:29:43,690
+你不知道自己在说什么
+All right, you don't know what you're talking about.
+
+745
+00:29:43,690 --> 00:29:45,070
+你接下来还要告诉我什么
+What are you gonna tell me next?
+
+746
+00:29:45,070 --> 00:29:47,530
+你的室友是个上医学院的脱衣舞男吗
+Your roommate is a stripper who's in medical school?
+
+747
+00:29:48,520 --> 00:29:49,900
+告诉我  如果我现在打给哥伦比亚
+Tell me right now--I call Columbia,
+
+748
+00:29:49,900 --> 00:29:51,780
+你的故事能得到证实
+your story holds up.
+
+749
+00:29:54,310 --> 00:29:55,190
+正如我所料
+That's what I thought.
+
+750
+00:29:55,190 --> 00:29:57,270
+别管我是谁  先看看那些文件行吗
+Forget who I am, and take a look at that folder.
+
+751
+00:29:57,270 --> 00:29:59,280
+-这关乎一个人的生活  -别碰我
+- This is a man's life. - Don't touch me.
+
+752
+00:29:59,490 --> 00:30:00,340
+如果你知道为自己好
+If you know what's good for you,
+
+753
+00:30:00,340 --> 00:30:02,220
+就该离克莱尔远远的
+you'll stay the hell away from Claire.
+
+754
+00:30:12,780 --> 00:30:13,660
+丹尼尔
+Daniel...
+
+755
+00:30:13,710 --> 00:30:16,230
+你知不知道有些特殊的品种
+Did you know that some of these species
+
+756
+00:30:16,230 --> 00:30:19,280
+可以活两百年
+can live up to 200 years?
+
+757
+00:30:19,280 --> 00:30:20,230
+太神奇了
+Fascinating.
+
+758
+00:30:20,230 --> 00:30:23,090
+那你知道弗莱彻引擎公司被打得丢盔卸甲吗
+Did you know Fletcher Engines is picking up the pieces?
+
+759
+00:30:25,380 --> 00:30:26,970
+我猜我应该恭喜你
+I guess congratulations are in order.
+
+760
+00:30:26,970 --> 00:30:28,430
+我来不是为了你的表扬
+I not here for a pat on the back.
+
+761
+00:30:28,430 --> 00:30:30,350
+我来是告诉你  你得让我当合伙人
+I'm here to tell you you're making me partner.
+
+762
+00:30:30,710 --> 00:30:31,630
+合伙人
+Partner?
+
+763
+00:30:32,650 --> 00:30:35,510
+我从没说过签下麦肯诺就可以当合伙人
+I never said signing McKernon was the key to making partner.
+
+764
+00:30:35,510 --> 00:30:38,600
+-你说过  -我说的只是签下他们
+- Yes, you-- - All I said was landing them could go a long way
+
+765
+00:30:38,600 --> 00:30:39,960
+会大大增加你的优势
+toward making your case.
+
+766
+00:30:40,310 --> 00:30:40,920
+胡扯
+Bullshit.
+
+767
+00:30:40,920 --> 00:30:42,820
+你说会任命新合伙人
+You said partnership was on the table.
+
+768
+00:30:42,820 --> 00:30:44,600
+而且我说过不会让你食言
+And I said I was gonna hold you to it.
+
+769
+00:30:44,600 --> 00:30:46,280
+现在我就要去
+And I'm going to right now.
+
+770
+00:30:47,370 --> 00:30:49,720
+你没权利让我做任何事情
+You don't hold me to anything.
+
+771
+00:30:53,020 --> 00:30:56,590
+不过我确实说过会决定合伙人
+But I did say partnership was on the table,
+
+772
+00:30:56,590 --> 00:30:57,730
+我也确实做了决定
+and it is...
+
+773
+00:30:57,730 --> 00:31:00,110
+只不过不是你
+just not for you.
+
+774
+00:31:01,930 --> 00:31:03,440
+你在说什么
+What are you talking about?
+
+775
+00:31:03,580 --> 00:31:04,870
+我总不能在告诉路易让他当合伙人后
+Well, I can't very well make you partner
+
+776
+00:31:04,870 --> 00:31:07,360
+再让你当合伙人吧
+after I just told Louis I'm making him partner.
+
+777
+00:31:07,710 --> 00:31:08,530
+什么
+What?
+
+778
+00:31:09,440 --> 00:31:12,160
+你还不明白  是吗
+You don't get it, do you?
+
+779
+00:31:12,690 --> 00:31:14,710
+这并不在于签下新的委托人
+This isn't about bringing in business.
+
+780
+00:31:15,150 --> 00:31:17,270
+在于找出谁会不惜一切去争取
+This is about figuring out who would do whatever it takes.
+
+781
+00:31:17,270 --> 00:31:19,170
+我不惜一切去争取了
+I did whatever it took.
+
+782
+00:31:19,180 --> 00:31:20,840
+你什么都没做
+You didn't do a thing.
+
+783
+00:31:21,520 --> 00:31:23,580
+只要你愿意做小人
+You had the chance to triple our business,
+
+784
+00:31:23,580 --> 00:31:25,860
+就能把我们的生意扩大两倍
+and all you had to do was take a knee.
+
+785
+00:31:26,130 --> 00:31:27,860
+那叫卑躬屈膝
+You mean bend a knee.
+
+786
+00:31:27,890 --> 00:31:30,970
+是的  我就是指这个
+Yes, that's exactly what I mean.
+
+787
+00:31:32,100 --> 00:31:33,910
+可你就是一个傲慢自大的小男孩
+But you're an arrogant little boy
+
+788
+00:31:33,910 --> 00:31:36,230
+宁愿赢也不愿识时务
+who would rather win than get in line.
+
+789
+00:31:37,500 --> 00:31:40,710
+那路易又怎么识时务了
+Well, what the hell did Louis do to get in line?
+
+790
+00:31:40,910 --> 00:31:42,670
+他付出了一切
+He did whatever it took.
+
+791
+00:31:58,670 --> 00:31:59,730
+-请离我远点  -克莱尔  等等
+- Please get away from me. - Claire, wait.
+
+792
+00:31:59,730 --> 00:32:01,610
+-纳森都告诉我了  -让我解释下  好吗
+- Nathan told me everything. - Just let me explain, okay?
+
+793
+00:32:01,610 --> 00:32:03,630
+解释什么  你是反社会者吗
+No, explain what-- that you're a sociopath?
+
+794
+00:32:03,640 --> 00:32:04,820
+我不是反社会者
+I'm not a sociopath.
+
+795
+00:32:04,820 --> 00:32:06,220
+我是之前跟你很合得来的人啊
+I'm the same guy that you hit it off with.
+
+796
+00:32:06,220 --> 00:32:07,640
+不  你不是  你骗了我
+No, you're not. You lied to me.
+
+797
+00:32:07,640 --> 00:32:09,650
+不  我是  我并不是故意要骗你的
+Yes, I am, and I didn't mean to lie to you, okay?
+
+798
+00:32:09,650 --> 00:32:10,460
+我本是打算告诉你事实的
+I was gonna tell you the truth.
+
+799
+00:32:10,460 --> 00:32:11,730
+那你为什么不说呢
+Then why didn't you?
+
+800
+00:32:13,470 --> 00:32:15,070
+因为你说你的理想型是个
+Because you said you wanted to be with a guy
+
+801
+00:32:15,070 --> 00:32:16,800
+能好好生活  踏实做事的人
+who was doing something good with his life, 
+
+802
+00:32:16,800 --> 00:32:17,350
+但我不是
+and I wasn't.
+
+803
+00:32:17,650 --> 00:32:20,190
+那又怎样  你现在是来告诉我说突然之间
+So what, now you're here to tell me that all of a sudden,
+
+804
+00:32:20,190 --> 00:32:22,370
+你就想投身于助人为乐的伟大事业了
+you want to dedicate your life to helping people
+
+805
+00:32:22,370 --> 00:32:23,730
+还是又要撒其他的谎
+or some other lie like that?
+
+806
+00:32:23,730 --> 00:32:26,510
+我没骗你  我本也能帮到海克特·苏雷兹的
+It's not a lie, and what I did would have helped Hector Suarez.
+
+807
+00:32:26,510 --> 00:32:28,010
+是啊  但是你只是为了…
+Yeah, but you only did it--
+
+808
+00:32:28,280 --> 00:32:29,760
+克莱尔  求你了  你得相信我
+Claire, please, you have to believe me.
+
+809
+00:32:29,760 --> 00:32:32,610
+遇见你之后  我就打算要重新做人了
+After I met you, I decided to get my shit together.
+
+810
+00:32:32,610 --> 00:32:34,420
+我正在努力重新开始
+I am trying to get my shit together.
+
+811
+00:32:34,420 --> 00:32:36,220
+好了  迈克  你知道比起
+Okay, Mike, you know what I hate more
+
+812
+00:32:36,220 --> 00:32:38,240
+生活一团糟  我更恨的是什么吗
+than guys who don't have their shit together?
+
+813
+00:32:39,390 --> 00:32:41,740
+就是骗人说你在重新开始
+It's guys who lie about getting their shit together.
+
+814
+00:32:46,730 --> 00:32:47,580
+克莱尔
+Claire.
+
+815
+00:32:53,850 --> 00:32:56,350
+路易  加满油  我马上回来
+Louis, fill up the tank. I'll be back.
+
+816
+00:33:02,590 --> 00:33:03,320
+动手吧
+Well?
+
+817
+00:33:06,600 --> 00:33:07,400
+动什么手
+Well, what?
+
+818
+00:33:07,410 --> 00:33:09,390
+你听到他说的了  加油啊
+You heard what he said. Fill up the tank.
+
+819
+00:33:09,780 --> 00:33:10,960
+对  我的确听到了
+Yeah, I did hear what he said.
+
+820
+00:33:10,970 --> 00:33:13,680
+他说的是  路易  把油加满
+He said, "Louis, fill up the tank."
+
+821
+00:33:16,820 --> 00:33:18,710
+可是  在我们那儿  给车加油这种事
+Well, where I come from, it's people who didn't go to college
+
+822
+00:33:18,710 --> 00:33:19,750
+是没上过大学的人干的
+who fill up gas tanks.
+
+823
+00:33:19,750 --> 00:33:21,110
+嗯  可是在我们那儿
+Yeah, and where I come from,
+
+824
+00:33:21,120 --> 00:33:22,090
+你要是再朝前走一步
+if you take another step towards me--
+
+825
+00:33:22,090 --> 00:33:23,950
+噢  怎样  城里来的小霸王要揍我了吗
+Oh, what, the tough kid from the city is gonna beat my ass?
+
+826
+00:33:23,950 --> 00:33:25,490
+路易  我再警告你一次
+Louis, I'm telling you right now...
+
+827
+00:33:29,220 --> 00:33:32,670
+你毁了我的人生  你还毁了我的律所
+You ruined my life. You ruined my firm.
+
+828
+00:33:33,010 --> 00:33:33,860
+路易
+Louis!
+
+829
+00:34:00,670 --> 00:34:02,160
+贱人
+You son of a bitch.
+
+830
+00:34:03,030 --> 00:34:03,840
+等等  哈维
+Wait. Harvey--
+
+831
+00:34:03,850 --> 00:34:05,300
+现在就告诉我  不是你
+Tell me right now you weren't the one
+
+832
+00:34:05,300 --> 00:34:07,400
+把我的计划透露给了弗莱彻引擎公司
+that gave Fletcher Engines my game plan.
+
+833
+00:34:08,280 --> 00:34:10,600
+哈德曼跟我说  他本来就没想让你做合伙人
+Hardman told me he wasn't gonna make you partner anyway.
+
+834
+00:34:11,360 --> 00:34:13,360
+他把这个机会给我  我只要
+And once he offered it to me, all I had to do was--
+
+835
+00:34:13,360 --> 00:34:14,710
+出卖我
+Sell me out.
+
+836
+00:34:14,870 --> 00:34:17,540
+我现在做的  跟你当初
+How is what I did any different than you going after
+
+837
+00:34:17,540 --> 00:34:19,090
+争麦肯诺汽车公司时有什么区别
+McKernon Motors in the first place?
+
+838
+00:34:19,090 --> 00:34:22,420
+如果你不能自己想明白  那你永远也不会懂
+If you don't understand that on your own, you never will.
+
+839
+00:34:22,420 --> 00:34:25,010
+所以  从现在开始  你走你的阳关道
+So, from now on, you stay on your side of the yard.
+
+840
+00:34:25,010 --> 00:34:27,520
+-我过我的独木桥  -哈维  听我说
+- I'll stay on mine. - No, Harvey, listen to me.
+
+841
+00:34:27,560 --> 00:34:29,430
+你告诉过我只要你能获得地位
+You told me you would fight to get our names on the wall
+
+842
+00:34:29,430 --> 00:34:30,630
+就会为我们的名字上墙而努力
+once you got on the other side.
+
+843
+00:34:30,630 --> 00:34:32,350
+我也可以这样做
+I can do the same for you.
+
+844
+00:34:32,350 --> 00:34:33,700
+你有听到我刚刚说的吗
+Did you hear what I just said?
+
+845
+00:34:33,700 --> 00:34:35,650
+我不想要你为我做什么
+I don't want you doing shit for me.
+
+846
+00:34:35,820 --> 00:34:37,240
+所以你做那个先成功的英雄
+Oh, so it would be okay if you were the one
+
+847
+00:34:37,240 --> 00:34:38,170
+就没有问题了吗
+who got there first?
+
+848
+00:34:38,170 --> 00:34:40,030
+要是你能先成功也可以啊
+It would have been okay if you got there first
+
+849
+00:34:40,040 --> 00:34:41,530
+只要你光明正大
+fair and square,
+
+850
+00:34:41,530 --> 00:34:43,550
+这样等你想跟我齐心协力的时候
+because then I would have believed you
+
+851
+00:34:43,550 --> 00:34:45,300
+我才能相信你
+when you said you wanted to be a team.
+
+852
+00:34:45,300 --> 00:34:46,930
+我的确想跟你齐心协力  哈维
+I do want to be a team, Harvey.
+
+853
+00:34:46,930 --> 00:34:48,290
+所以之后我帮了你
+That's why I helped you after.
+
+854
+00:34:48,290 --> 00:34:49,880
+你没有
+No, you don't!
+
+855
+00:34:50,680 --> 00:34:51,790
+你不想组成团队
+You don't want to be a team.
+
+856
+00:34:51,790 --> 00:34:53,620
+你是想鱼和熊掌兼得
+You just want to have it both ways,
+
+857
+00:34:53,620 --> 00:34:55,230
+因为你是个不忠诚的叛徒
+because you're a disloyal rat.
+
+858
+00:34:55,230 --> 00:34:56,730
+不管你门上贴了什么
+You always have been, and you always will,
+
+859
+00:34:56,730 --> 00:34:58,460
+现在  将来  你都只是个叛徒
+no matter what it says on your door.
+
+860
+00:35:02,200 --> 00:35:04,040
+就像你说的  我们从第一天起
+Well, like you said, we've been pitted against each other
+
+861
+00:35:04,040 --> 00:35:05,520
+就已经是对手
+since day one.
+
+862
+00:35:07,960 --> 00:35:10,620
+你问我当初一起的那50个初级律师
+You asked how many of the 50 associates we started with
+
+863
+00:35:10,620 --> 00:35:12,010
+有多少会变成合伙人
+would make partner.
+
+864
+00:35:12,600 --> 00:35:14,560
+其实  我一点也不在乎剩下的49个人
+Well, you know what? I don't give a shit about the other 49,
+
+865
+00:35:14,560 --> 00:35:16,140
+因为我成为了合伙人
+because I'm the one who did.
+
+866
+00:35:17,690 --> 00:35:19,030
+我  成为了合伙人
+I'm the one who did.
+
+867
+00:35:20,370 --> 00:35:21,650
+现在请你滚远一点
+And now get the hell out of my face,
+
+868
+00:35:21,650 --> 00:35:23,100
+我还有工作要做
+because I have work to do.
+
+869
+00:35:40,100 --> 00:35:42,160
+你知道他是故意的吧
+You know he did that on purpose, right?
+
+870
+00:35:42,640 --> 00:35:44,180
+故意什么
+Did what on purpose?
+
+871
+00:35:44,320 --> 00:35:47,090
+他叫你去加油是因为他知道你会怎么做
+He asked you to fill the tank because he knew what you'd do.
+
+872
+00:35:47,120 --> 00:35:47,880
+知道我会怎么做
+Knew what I would do?
+
+873
+00:35:47,880 --> 00:35:49,300
+怎么不说他知道你会怎么做
+What about what you would do?
+
+874
+00:35:50,560 --> 00:35:51,850
+那个他也知道
+He knew that too.
+
+875
+00:35:55,740 --> 00:35:56,340
+路易
+Louis...
+
+876
+00:35:56,340 --> 00:35:58,090
+你连对不起都没跟我说过
+You never even said you were sorry.
+
+877
+00:36:05,670 --> 00:36:07,520
+对不起  路易
+I am sorry, Louis.
+
+878
+00:36:08,360 --> 00:36:09,870
+很抱歉我骗了你
+I'm sorry that I lied to you.
+
+879
+00:36:12,240 --> 00:36:14,780
+但我不是骗子  路易
+I'm not a con man, Louis.
+
+880
+00:36:15,250 --> 00:36:18,760
+我跟你说的其他事都是真的
+Every single other thing I ever told you was true.
+
+881
+00:36:26,680 --> 00:36:28,210
+想知道点
+Want to know something that 
+
+882
+00:36:28,210 --> 00:36:30,240
+我自己都不敢承认的事吗
+I've never even admitted to myself?
+
+883
+00:36:35,580 --> 00:36:37,300
+我没学开车跟我没上法学院
+I never learned to drive for the same reason
+
+884
+00:36:37,300 --> 00:36:38,970
+背后的原因是一样的
+I never went to law school.
+
+885
+00:36:40,620 --> 00:36:42,960
+因为我的双亲死于一场车祸
+Both my parents were killed in a car accident.
+
+886
+00:36:42,960 --> 00:36:47,040
+从那之后  我再也不敢…
+And ever since then, I've never been able to--
+
+887
+00:36:47,040 --> 00:36:48,470
+坐在方向盘前
+Get behind the wheel.
+
+888
+00:36:52,320 --> 00:36:55,340
+后来哈维给我驾照  我也收了
+And then Harvey gave me a license, and I took it.
+
+889
+00:36:58,300 --> 00:37:00,250
+你那时才11岁啊
+You were 11 years old.
+
+890
+00:37:04,050 --> 00:37:07,500
+你肯定觉得很孤独
+I mean, you must have felt so alone.
+
+891
+00:37:10,030 --> 00:37:12,250
+我以为你不相信我是个孤儿呢
+I thought you said you didn't believe I was an orphan.
+
+892
+00:37:14,550 --> 00:37:15,650
+我查过
+I looked it up.
+
+893
+00:37:18,230 --> 00:37:20,770
+一发现你没上过法学院我就忍不住去查了
+I had to once I found out that you never went to law school.
+
+894
+00:37:20,770 --> 00:37:23,180
+你是说一发现我是个骗子么
+You mean once you found out that I'm a fraud.
+
+895
+00:37:23,550 --> 00:37:25,130
+你不是骗子  迈克
+You're not a fraud, Mike.
+
+896
+00:37:28,200 --> 00:37:29,710
+你只是没上过法学院罢了
+You just never went to law school.
+
+897
+00:37:31,920 --> 00:37:34,450
+好啦  弗雷泽[拳击手]  给你葡萄味的
+Okay, Frazier, you get a grape.
+
+898
+00:37:36,180 --> 00:37:38,770
+阿里  给你混合果味的
+Ali, I got you a fruit punch.
+
+899
+00:37:41,540 --> 00:37:43,250
+你们俩和好了吗
+You two work your shit out?
+
+900
+00:37:45,350 --> 00:37:47,960
+就当是了  那我们走吧
+I'll take that as a yes. Let's get the hell out of here.
+
+901
+00:38:01,670 --> 00:38:03,430
+我不该骗她的
+I should never have lied to her.
+
+902
+00:38:03,430 --> 00:38:05,290
+诶  去她的吧  兄弟
+Oh, screw her, man.
+
+903
+00:38:05,490 --> 00:38:06,800
+要是她不喜欢你本来的样子
+If she doesn't like you for who you are,
+
+904
+00:38:06,800 --> 00:38:07,910
+她就不值得拥有你
+she doesn't deserve you.
+
+905
+00:38:07,910 --> 00:38:09,790
+这不是克莱尔的错  是我的错
+It's not Claire's fault. It's mine.
+
+906
+00:38:09,790 --> 00:38:12,110
+我知道你很喜欢她
+I know you were into her and everything,
+
+907
+00:38:12,110 --> 00:38:13,340
+但相信我
+but trust me,
+
+908
+00:38:13,620 --> 00:38:15,210
+天涯何处无芳草
+there are plenty of other fish in the sea.
+
+909
+00:38:15,210 --> 00:38:16,290
+你又不是先知
+You don't know that.
+
+910
+00:38:16,290 --> 00:38:17,910
+就我而言  我不可能再遇到
+For all you know, I'm never gonna meet
+
+911
+00:38:17,910 --> 00:38:19,410
+像她这样的女孩了
+another girl like her again.
+
+912
+00:38:19,560 --> 00:38:20,170
+迈克…
+Michael--
+
+913
+00:38:20,170 --> 00:38:21,760
+特雷弗  要是你想让我听
+Trevor, if I'm gonna have to listen
+
+914
+00:38:21,760 --> 00:38:22,900
+你接下来要说的话
+to whatever you're about to say,
+
+915
+00:38:22,900 --> 00:38:24,500
+那就得先给我来根大麻烟
+I'm gonna need a joint first.
+
+916
+00:38:24,590 --> 00:38:26,960
+天呐  你不是要重新开始人生么
+Come on, I thought you were trying to turn your life around.
+
+917
+00:38:27,530 --> 00:38:29,390
+我明天再重生吧
+I'll turn my life around tomorrow.
+
+918
+00:38:29,390 --> 00:38:31,460
+今晚我还是个送信的  所以…
+But tonight I'm a bike messenger, so...
+
+919
+00:38:31,460 --> 00:38:33,040
+-老兄  -特雷弗
+- Dude-- - Trevor.
+
+920
+00:38:36,710 --> 00:38:37,560
+好吧
+All right.
+
+921
+00:38:37,700 --> 00:38:38,550
+很好
+Fine.
+
+922
+00:38:40,810 --> 00:38:42,430
+我知道奶奶不想让你住这里
+And I know Grammy doesn't want you living here,
+
+923
+00:38:42,430 --> 00:38:44,700
+但你愿意的话  今晚可以留下
+but you can crash here tonight if you want.
+
+924
+00:38:56,530 --> 00:38:57,490
+唐娜
+Donna.
+
+925
+00:38:59,060 --> 00:39:00,070
+出了什么事吗
+Something wrong?
+
+926
+00:39:01,400 --> 00:39:02,750
+为什么你会觉得出事了
+Why would something be wrong?
+
+927
+00:39:02,750 --> 00:39:05,420
+因为我不记得你进过我办公室
+Because I don't believe you've ever been in my office before.
+
+928
+00:39:06,590 --> 00:39:08,030
+没有  没出事
+No, nothing's wrong.
+
+929
+00:39:09,710 --> 00:39:10,880
+我知道这话不该我来说
+And I know it's not my place,
+
+930
+00:39:10,880 --> 00:39:13,680
+但我来告诉你  我觉得你犯了错误
+but I'm here to tell you that I think you're making a mistake.
+
+931
+00:39:13,720 --> 00:39:17,060
+是因为哥伦比亚纪念日不放假的事吗
+Is this about me not giving people off for Columbus Day?
+
+932
+00:39:17,340 --> 00:39:19,100
+你知道不是
+You know this isn't about that.
+
+933
+00:39:21,020 --> 00:39:22,630
+哈维跟丹尼尔说了实话
+Harvey laid it on the line with Daniel,
+
+934
+00:39:22,630 --> 00:39:24,310
+可你没有支持他
+and you didn't have his back.
+
+935
+00:39:24,320 --> 00:39:28,170
+唐娜  从我认识哈维起就一直在支持他
+Donna, I've had Harvey's back since the day I met him.
+
+936
+00:39:28,170 --> 00:39:28,900
+告诉你一声
+For your information,
+
+937
+00:39:28,900 --> 00:39:30,830
+我一发现丹尼尔要做什么
+when I found out what Daniel was up to,
+
+938
+00:39:30,830 --> 00:39:33,500
+就让他保证了合伙人选拔要公开
+I had him guarantee partnership was on the table.
+
+939
+00:39:33,500 --> 00:39:35,210
+而之后你让他把那个位置给了错误的人
+And then you let him give it to the wrong man.
+
+940
+00:39:35,210 --> 00:39:37,070
+那是哈维的问题  不是我的
+That is on Harvey, not on me.
+
+941
+00:39:37,070 --> 00:39:38,640
+你在说什么
+What are you talking about?
+
+942
+00:39:40,390 --> 00:39:42,950
+丹尼尔担心哈维不能
+Daniel was worried that Harvey couldn't
+
+943
+00:39:42,950 --> 00:39:45,540
+把律所的利益置于他自身利益之上
+put the firm's best interests ahead of his own,
+
+944
+00:39:45,540 --> 00:39:47,620
+哈维又证明了他顾虑得对
+and Harvey proved him right.
+
+945
+00:39:47,890 --> 00:39:49,320
+也许只是你这么骗自己
+Or maybe you're just telling yourself that
+
+946
+00:39:49,320 --> 00:39:51,430
+因为你不想跟丹尼尔·哈德曼对抗
+because you don't want to stand up to Daniel Hardman.
+
+947
+00:39:52,070 --> 00:39:55,960
+唐娜  你在你的位置  我在我的位置
+Donna, there's a reason why you are where you are
+
+948
+00:39:55,960 --> 00:39:57,080
+都是有道理的
+and I am where I am,
+
+949
+00:39:57,080 --> 00:39:59,550
+因为我们中有个人能看到大局
+and that is because one of us sees the bigger picture.
+
+950
+00:40:03,320 --> 00:40:05,410
+你知道弗莱彻引擎公司的事
+You knew about Fletcher Engines?
+
+951
+00:40:05,410 --> 00:40:08,340
+我知道哈维的好日子会到的
+What I know is that Harvey's time will come.
+
+952
+00:40:08,510 --> 00:40:11,340
+而如果这个小事件能让他考虑别人
+And if this little incident gets him to think about other people
+
+953
+00:40:11,340 --> 00:40:14,090
+有点改变  我会接受的
+for a change, then I'll take it.
+
+954
+00:40:21,210 --> 00:40:22,370
+你起得很早
+You're up early.
+
+955
+00:40:22,800 --> 00:40:25,900
+我起得早是因为没睡着
+I'm up early, because I couldn't sleep.
+
+956
+00:40:27,480 --> 00:40:29,370
+你一晚上去哪了
+Where we you all night?
+
+957
+00:40:31,100 --> 00:40:32,770
+你知道我去哪了
+You know where I was.
+
+958
+00:40:36,620 --> 00:40:38,410
+我在新公寓住
+I was staying at my new apartment.
+
+959
+00:40:38,790 --> 00:40:40,470
+我以为我们已经决定好了
+I thought we'd settled this.
+
+960
+00:40:40,470 --> 00:40:42,790
+你决定了  我还没有
+You settled it. I didn't.
+
+961
+00:40:45,240 --> 00:40:46,880
+我跟你说  那个孩子...
+I'm telling you, that kid--
+
+962
+00:40:46,880 --> 00:40:48,500
+奶奶  从我记事起
+Grammy, for as long as I can remember,
+
+963
+00:40:48,500 --> 00:40:49,880
+你就一直叫他"那孩子"
+you've been calling him "That kid"
+
+964
+00:40:49,880 --> 00:40:52,080
+"那小子"  有时更糟
+or "That boy" or worse.
+
+965
+00:40:52,960 --> 00:40:54,720
+他叫特雷弗
+His name is Trevor.
+
+966
+00:40:55,440 --> 00:40:57,030
+他是我最好的朋友
+And he's my best friend.
+
+967
+00:40:59,890 --> 00:41:02,020
+无论你是否祝福我  我都要做这件事
+Look, I'm gonna do this thing with or without your blessing,
+
+968
+00:41:02,020 --> 00:41:02,900
+但...
+but...
+
+969
+00:41:06,080 --> 00:41:08,000
+有你的祝福更好
+it sure would be nice to have it.
+
+970
+00:41:10,700 --> 00:41:12,090
+好吧  迈克
+Okay, Michael.
+
+971
+00:41:12,510 --> 00:41:16,140
+我不会跟你说谎  假装同意
+I'm not gonna lie to you and pretend I approve,
+
+972
+00:41:16,140 --> 00:41:17,460
+但...
+but...
+
+973
+00:41:18,840 --> 00:41:22,770
+你是大人了  我尊重你的决定
+you're a grown man, and I respect your decision.
+
+974
+00:41:29,310 --> 00:41:30,580
+我爱你  奶奶
+I love you, Grammy.
+
+975
+00:41:32,020 --> 00:41:33,180
+我也爱你
+I love you too.
+
+976
+00:41:39,580 --> 00:41:40,610
+谢谢你
+Thank you.
+
+977
+00:41:40,660 --> 00:41:42,420
+我就需要了解这些
+I believe that's all I need to know.
+
+978
+00:41:42,570 --> 00:41:44,040
+谢谢您花时间面试  皮尔逊女士
+Thank you for your time, Ms. Pearson.
+
+979
+00:41:44,040 --> 00:41:46,280
+我会等您的回信
+I will wait to hear from you.
+
+980
+00:41:49,860 --> 00:41:51,500
+还有一件事
+Oh, one more thing--
+
+981
+00:41:51,730 --> 00:41:54,130
+你父亲知道你来找我求职吗
+does your father know you came to me for a job?
+
+982
+00:41:57,050 --> 00:41:57,750
+我...
+I-I--
+
+983
+00:41:57,750 --> 00:41:58,800
+你真以为我不知道
+Did you really think I didn't know
+
+984
+00:41:58,800 --> 00:42:00,760
+你是罗伯特·赞恩的女儿吗
+you were Robert Zane's daughter?
+
+985
+00:42:01,730 --> 00:42:03,350
+你是因为那个才面试我吗
+Is that why you're interviewing me?
+
+986
+00:42:04,690 --> 00:42:05,600
+如果是的
+Because if it is,
+
+987
+00:42:05,600 --> 00:42:08,220
+我希望我从备选名单上除名
+I would like to remove myself from consideration.
+
+988
+00:42:08,230 --> 00:42:10,100
+你不想给你父亲工作
+If you don't want to work for your father,
+
+989
+00:42:10,100 --> 00:42:11,500
+那是你的事
+that's your business.
+
+990
+00:42:12,250 --> 00:42:14,670
+我雇你是因为我喜欢自己看到的特质
+I'm hiring you because I like what I see.
+
+991
+00:42:15,370 --> 00:42:16,130
+雇我
+Hiring me?
+
+992
+00:42:16,130 --> 00:42:18,740
+周一开始上班  如果没问题的话
+You start Monday, if that's not too much trouble.
+
+993
+00:42:19,070 --> 00:42:20,780
+我会第一个来上班的
+I will be the first one in.
+
+994
+00:42:27,110 --> 00:42:29,740
+你不问我为什么不想为我父亲工作吗
+Aren't you gonna ask me why I don't want to work with my father?
+
+995
+00:42:29,740 --> 00:42:30,910
+我知道原因
+I know why.
+
+996
+00:42:31,250 --> 00:42:33,170
+我有个跟你一样的父亲
+I have a dad just like yours.
+
+997
+00:42:33,170 --> 00:42:34,290
+他也有自己的律所
+He has his own law firm?
+
+998
+00:42:34,290 --> 00:42:35,530
+他是外科医生
+He's a surgeon.
+
+999
+00:42:36,330 --> 00:42:38,000
+但其实是一样的
+But it's the same damn thing.
+
+1000
+00:42:53,710 --> 00:42:55,230
+-时间准吗  -时间刚刚好
+- How are we on time? - We're perfect.
+
+1001
+00:42:55,230 --> 00:42:56,990
+但我不进去了  你俩去
+But I'm not going in there. You two are.
+
+1002
+00:42:56,990 --> 00:42:58,250
+你说什么呢
+What are you talking about?
+
+1003
+00:42:58,250 --> 00:43:00,220
+我说过要把麦肯诺的一半业务给你
+I said I was giving you 50% of McKernon.
+
+1004
+00:43:00,220 --> 00:43:02,610
+但没说我会保留另一半
+I didn't say I was keeping the other 50%.
+
+1005
+00:43:04,720 --> 00:43:07,130
+你终于意识到他们的代理
+Oh, so you finally realized they need an upgrade
+
+1006
+00:43:07,140 --> 00:43:08,520
+需要升级了
+in representation.
+
+1007
+00:43:08,590 --> 00:43:09,740
+悠着点  弗雷泽
+Easy, Frazier.
+
+1008
+00:43:09,740 --> 00:43:11,560
+要不是我救你
+You'd still be out cold at that gas station
+
+1009
+00:43:11,560 --> 00:43:12,790
+你还在加油站冻着呢
+if I hadn't saved your ass.
+
+1010
+00:43:12,790 --> 00:43:15,030
+我最终总能活着出去的...
+Okay, I would have gotten out... eventually.
+
+1011
+00:43:15,030 --> 00:43:17,090
+-我看不会  -我很狡猾的
+- Not from where I was standing. - I'm slippery.
+
+1012
+00:43:17,100 --> 00:43:18,630
+我说过  我在高中玩摔跤的
+I told you-- I wrestled in high school.
+
+1013
+00:43:18,630 --> 00:43:20,370
+-我查过  他是玩过  -看见了吧
+- I checked on that. He did. - See?
+
+1014
+00:43:20,700 --> 00:43:22,840
+现在你要帮他了
+Oh, and now you're fighting for him?
+
+1015
+00:43:22,850 --> 00:43:24,500
+那我想这里没我事了
+Okay, I guess my job here is done.
+
+1016
+00:43:24,500 --> 00:43:25,750
+等等  你去哪
+Wait, where are you going?
+
+1017
+00:43:26,030 --> 00:43:27,300
+我把车开回城里去
+I'm taking the car, back to the city.
+
+1018
+00:43:27,300 --> 00:43:28,840
+我们要怎么办
+What the hell we suppose to do?
+
+1019
+00:43:29,530 --> 00:43:32,180
+雷在停车场那头等着呢  对吗
+Ray is wating on the other side of the parking, isn't he?
+
+1020
+00:43:32,710 --> 00:43:34,610
+你们办完事  他载你们回去
+He'll drive you two back when you're done
+
+1021
+00:43:34,980 --> 00:43:36,610
+等等  我有个更好的主意
+Wait, you know, I have a better idea.
+
+1022
+00:43:36,610 --> 00:43:38,590
+你带走雷  我们开车
+How about you take Ray, we take the car,
+
+1023
+00:43:38,590 --> 00:43:40,510
+回去路上我教迈克开车怎么样
+and I'll teach Mike how to drive on the way home.
+
+1024
+00:43:40,840 --> 00:43:42,240
+你真愿意教我
+You'd actually do that?
+
+1025
+00:43:42,250 --> 00:43:43,310
+愿意
+Yeah, I would.
+
+1026
+00:43:43,310 --> 00:43:44,320
+坚决不行
+No way.
+
+1027
+00:43:44,480 --> 00:43:45,300
+你不相信我
+You don't trust me?
+
+1028
+00:43:45,300 --> 00:43:46,990
+我就是不信任你
+I don't trust you as far as I can throw you,
+
+1029
+00:43:46,990 --> 00:43:47,840
+你是个骗子
+you're a god damn fraud.
+
+1030
+00:43:47,840 --> 00:43:48,600
+那是我的话
+That's what I said.
+
+1031
+00:43:48,600 --> 00:43:49,900
+哈维  说真的  我保证...
+Harvey, seriously, I promise...
+
+1032
+00:43:49,900 --> 00:43:51,370
+好了  我知道
+Okay, I know you will.
+
+1033
+00:43:51,370 --> 00:43:54,260
+路易  车被蹭一点
+Louis, you make one dent in the car,
+
+1034
+00:43:54,260 --> 00:43:55,680
+迈克重新失业  你办公室门上名字也别要了
+Mike's back on the street, your name's off the door.
+
+1035
+00:43:59,810 --> 00:44:01,440
+你觉得他刚才说的是认真的吗
+You think he's serious about what he said?
+
+1036
+00:44:02,100 --> 00:44:02,980
+走吧
+Come on.
+
+1037
+00:44:02,980 --> 00:44:04,440
+我有点紧张
+Just a little nervous,
+
+1038
+00:44:04,440 --> 00:44:06,290
+我感觉像喝了烈酒
+cause I feel like I drank the power drink,
+
+1039
+00:44:06,290 --> 00:44:07,370
+里头掺了好多苏打水
+has a lot soda in it,
+
+1040
+00:44:07,370 --> 00:44:09,190
+-但其实是坏热狗  -好吧
+- actrually, it's a dirty hot dog, - Okay.
+
+1041
+00:44:09,190 --> 00:44:10,740
+医生说那东西升高了我的血压
+the doctor says it raise my blood pressure.
+
+1042
+00:44:10,740 --> 00:44:12,960
+一会儿我来说话吧
+I would let me to give the talk.
+
