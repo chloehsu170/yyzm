@@ -3,7 +3,6 @@ import requests
 from zimuku.yyzm.jieya import *
 from pyquery import PyQuery as pq
 
-
 def search():
     data = {
         'q': KEYWORD1
