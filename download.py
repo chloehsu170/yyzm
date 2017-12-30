@@ -3,6 +3,7 @@ import requests
 from zimuku.yyzm.jieya import *
 from pyquery import PyQuery as pq
 
+
 def search():
     data = {
         'q': KEYWORD1
@@ -40,7 +41,7 @@ def parse_shows_url(html):
     items1 = doc('#subtb .odd').items()
     items2 = doc('#subtb .even').items()
     for item1 in items1:
-        if ZIMUZU in item1.find('.label-danger').text() :
+        if ZIMUZU in item1.find('.label-danger').text():
             it1s = doc(item1.find('.lang img')).items()
             for it1 in it1s:
                 if it1.attr('alt') == SUBTITLE:
@@ -60,7 +61,7 @@ def parse_shows_url(html):
         result = []
         for res in resultS:
             # print(res)
-            # name_ptn = re.compile('([a-zA-Z0-9.]*?[sS]02)', re.IGNORECASE)  # [Ee]\d\d) [简中].*?英.*?
+            # name_ptn = re.compile('([a-zA-Z0-9.]*?[sS]02)', re.IGNORECASE) # [Ee]\d\d) [简中].*?英.*?
             name_ptn = re.compile('({0})'.format(SHOWSPTN), re.IGNORECASE)
             name = re.search(name_ptn, res[0])
             if name:
@@ -91,7 +92,7 @@ def parse_show_url(html):
     showURLresult = re.search(url_ptn, html)
     if showURLresult and showTitleResult:
         print('http://www.zimuku.cn' + showURLresult.group(1), showTitleResult.group(1))
-        return showURLresult.group(1), showTitleResult.group(1) #, showTitleResult.group(2)
+        return showURLresult.group(1), showTitleResult.group(1)  # , showTitleResult.group(2)
     else:
         print('没有匹配的字幕供下载！')
         # return None
@@ -149,7 +150,7 @@ def main():
                     showResult = parse_show_url(showHtml)
                     # 返回none怎麼辦 showURLresult, showTitleResult, showTitleMode
                     # print('!!!!!!', showResult)
-                    if showResult: #该字幕组有该集
+                    if showResult:  # 该字幕组有该集
                         os.chdir(FILEPATH)  # 重新回到filepath下载路径
                         if download(showResult[0], showResult[1]):
                             sondir = un_rar(FILEPATH + showResult[1])
@@ -167,12 +168,12 @@ def main():
                             #         un_rar(FILEPATH + showResult[1]) #File is not a zip file
                             # elif showResult[2] == '7z':
                             #     os.system('7z x \"{0}\"'.format(FILEPATH + showResult[1]))
-                    #####################################################################################
-                            if sondir:#解压成功
+                            #####################################################################################
+                            if sondir:  # 解压成功
                                 ptn = re.compile(KEYWORD1, re.IGNORECASE)  # 匹配showname文件夹名
                                 for filename in os.listdir(FILEPATH):
                                     extractName = re.search(ptn, filename)
-                                    if (extractName or filename==sondir) and os.path.isdir(filename):#
+                                    if (extractName or filename == sondir) and os.path.isdir(filename):  #
                                         if select_file(FILEPATH + filename):
                                             shutil.rmtree(FILEPATH + filename)
                                         else:
@@ -187,11 +188,11 @@ def main():
                             # else:
                             #     print("找不到文件夾",extractName)#
                             else:
-                                print('解压失败！',showResult[1])
+                                print('解压失败！', showResult[1])
                                 continue
 
                         else:
-                            print('下载失败!',showResult)
+                            print('下载失败!', showResult)
                             continue
                     else:
                         print('下载页面标题不符合模式!')

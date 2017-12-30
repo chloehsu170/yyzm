@@ -10,4 +10,4 @@ KEYWORD1 = 'good.fight'  # Silicon.Valley Gypsy House.of.Cards Suits modern.fami
 SUBTITLE = '双语字幕'
 SHOWSPTN = '[a-zA-Z0-9.]*?[sS]\d\d'
 SHOWPTN = '[Ss]\d\d[Ee]\d\d'
-MONGODB_COLLECTION = KEYWORD1  # Gypsy  Suits
+MONGODB_COLLECTION = KEYWORD1  # Gypsy Suits
