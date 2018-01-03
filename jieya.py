@@ -12,6 +12,7 @@ import rarfile
 import os
 from zimuku.yyzm.config import *
 import pymongo
+import pandas
 
 # from zimuku.download import *
 client = pymongo.MongoClient(MONGODB_URL)
@@ -140,7 +141,7 @@ def un_zip(file_name):  # zip文件解压后有乱码问题
                     sondir = un_rar(os.getcwd() + '\\' + names)
 
         #############################################################################################
-        elif not isdir:#没有文件夹的话
+        elif not isdir:  # 没有文件夹的话
             os.mkdir(file_name + '_files')  # file_name[:-4]
             sondir = file_name.split('\\')[-1] + '_files'  # 取文件夹名
             for names in zip_file.namelist():
@@ -182,7 +183,7 @@ def un_zip(file_name):  # zip文件解压后有乱码问题
         return False
 
 
-def select_file1111111111111111111111(filedir):
+def select_file1111111111111111111111(filedir, i):
     try:
         filelists = os.listdir(filedir)
         ptn = re.compile('简体&英文.srt')  # 匹配srt文件
@@ -190,56 +191,92 @@ def select_file1111111111111111111111(filedir):
             ll = re.search(ptn, file)
             if ll:
                 print('已找到', file)
-                if save_srt_file(filedir + '\\' + file):  # 找到srt文件后複製到srt文件夾
-                    read_file(filedir + '\\' + file)  # 讀取srt文件內容
+                if save_srt_file(filedir + '\\' + file, i):  # 找到srt文件后複製到srt文件夾
+                    read_file(filedir + '\\' + file, i)  # 讀取srt文件內容
     except:
         pass
 
 
-def select_file(filedir):
+def select_file(filedir, keyword):
     try:
         filelists = os.listdir(filedir)
-        srtPtn = re.compile('简体&英文.srt|简英.srt|chs&eng.srt|精校版.*?\.srt|双语.*?\.srt|初校版.*?\.srt', re.IGNORECASE)
+        srtPtn = re.compile('简体&英文.srt|简英.srt|chs&eng.srt|chs&en.srt|精校.*?\.srt|双语.*?\.srt|初校.*?\.srt',
+                            re.IGNORECASE)
+        srt1Ptn = re.compile('.srt', re.IGNORECASE)
         # 匹配srt文件 |.srt
-        assPtn = re.compile('简体&英文.ass|简英.ass|chs&eng.ass|精校版.*?\.ass|双语.*?\.ass|初校版.*?\.ass|繁体&英文.ass',
+        assPtn = re.compile('简体&英文.ass|简英.ass|chs&eng.ass|chs&en.ass|精校.*?\.ass|双语.*?\.ass|初校.*?\.ass|繁体&英文.ass',
                             re.IGNORECASE)  # 匹配ass文件 |.ass
+        ass1Ptn = re.compile('.ass', re.IGNORECASE)
         srtfPtn = re.compile('繁体&英文.srt|繁英.srt')  # 匹配繁体srt文件
         srtResult = 0  # 找到srt文件
         srtfResult = 0  # 找到繁体srt文件
         assResult = 0  # 找到ass文件
+        srt1Result = 0  # 找到srt文件
+        ass1Result = 0  # 找到繁体srt文件
         for file in filelists:
             srtll = re.search(srtPtn, file)
             if srtll:
                 srtResult = 1
-                print('已找到srt文件', file)
-                if save_srt_file(filedir + '\\' + file):  # 找到srt文件后複製到srt文件夾
-                    read_file(filedir + '\\' + file)  # 讀取srt文件內容
+                print('已找到简英srt文件', file)
+                if save_srt_file(filedir + '\\' + file, keyword):  # 找到srt文件后複製到srt文件夾
+                    read_file(filedir + '\\' + file, keyword)  # 讀取srt文件內容
                 # break不能break 需要查找全部符合条件的文件
-
-        if srtResult == 0:
+        if srtResult == 1:
+            return True
+        else:
             print('没有找到简英srt文件找繁英srt文件')  #
             for file in filelists:
                 srtfll = re.search(srtfPtn, file)
                 if srtfll:
                     srtfResult = 1
                     print('已找到繁英srt文件', file)
-                    if save_srt_file(filedir + '\\' + file):  # 找到srt文件后複製到srt文件夾
-                        read_file(filedir + '\\' + file)  # 讀取srt文件內容
+                    if save_srt_file(filedir + '\\' + file, keyword):  # 找到srt文件后複製到srt文件夾
+                        read_file(filedir + '\\' + file, keyword)  # 讀取srt文件內容
                     # break不能break 需要查找全部符合条件的文件
-
-        if srtfResult == 0:
-            print('没有找到繁英srt文件找ass文件')  #
-            for file in filelists:
-                assll = re.search(assPtn, file)
-                if assll:
-                    assResult = 1
-                    print('已找到ass文件', file)
-                    srtfile = ass_to_srt(filedir + '\\' + file)
-                    # print(srtfile)
-                    if save_srt_file(srtfile):  # ass转srt文件后複製到srt文件夾
-                        read_file(srtfile)  # 讀取srt文件內容
-                    # break不能break 需要查找全部符合条件的文件
-        return srtfResult or srtfResult or assResult
+            if srtfResult == 1:
+                return True
+            else:
+                print('没有找到繁英srt文件找ass文件')  #
+                for file in filelists:
+                    assll = re.search(assPtn, file)
+                    if assll:
+                        assResult = 1
+                        print('已找到ass文件', file)
+                        srtfile = ass_to_srt(filedir + '\\' + file)
+                        # print(srtfile)
+                        if save_srt_file(srtfile, keyword):  # ass转srt文件后複製到srt文件夾
+                            read_file(srtfile, keyword)  # 讀取srt文件內容
+                        # break不能break 需要查找全部符合条件的文件
+                if assResult == 1:
+                    return True
+                else:
+                    print('没有找到ass文件找.srt文件')  #
+                    for file in filelists:
+                        srt1ll = re.search(srt1Ptn, file)
+                        if srt1ll:
+                            srt1Result = 1
+                            print('已找到.srt文件', file)
+                            if save_srt_file(filedir + '\\' + file, keyword):  # ass转srt文件后複製到srt文件夾
+                                read_file(filedir + '\\' + file, keyword)  # 讀取srt文件內容
+                    if srt1Result == 1:
+                        return True
+                    else:
+                        print('没有找到。srt文件找。ass文件')  #
+                        for file in filelists:
+                            assll = re.search(ass1Ptn, file)
+                            if assll:
+                                ass1Result = 1
+                                print('已找到。ass文件', file)
+                                srtfile = ass_to_srt(filedir + '\\' + file)
+                                # print(srtfile)
+                                if save_srt_file(srtfile, keyword):  # ass转srt文件后複製到srt文件夾
+                                    read_file(srtfile, keyword)  # 讀取srt文件內容
+                                # break不能break 需要查找全部符合条件的文件
+                        if ass1Result == 1:
+                            return True
+                        else:
+                            return False
+        # return srtResult or srtfResult or assResult or srt1Result or ass1Result
     except Exception as e:
         print(e)
 
@@ -262,11 +299,11 @@ def ass_to_srt(file):
     return srtname
 
 
-def save_srt_file(file):
+def save_srt_file(file, keyword):
     # name_pattern = re.compile('([Ss]\d\d[Ee]\d\d)')  # 匹配title模式
     name_pattern = re.compile('({0})'.format(SHOWPTN))
     names = re.findall(name_pattern, file)
-    srtpath = SRTPATH + KEYWORD1 + '.' + names[-1] + '.srt'  # 找到文件名匹配而不是文件夹匹配
+    srtpath = SRTPATH + keyword + '.' + names[-1] + '.srt'  # 找到文件名匹配而不是文件夹匹配
     if not os.path.exists(srtpath):
         # 判斷目標文件夾是否有這個文件，沒有就複製，basename()取源文件名，dirname()取源路徑名
         # title_pattern = re.compile('([a-zA-Z0-9.]*?S\d\dE\d\d)')
@@ -278,7 +315,7 @@ def save_srt_file(file):
         return False
 
 
-def read_file(file):
+def read_file(file, keyword):
     try:
         with open(file, 'rb') as f:  # 读取文件编码
             coding = chardet.detect(f.read())
@@ -304,10 +341,10 @@ def read_file(file):
                 if re.search(time_pattern, lines[i + 1]) and re.search(eng_pattern, lines[i + 3]):
                     # match起始位置匹配成功
                     subtitle = {
-                        'index': KEYWORD1 + '.' + titles[-1] + '--' + lines[i].replace('\n', '').replace('\r', ''),
-                        'time': lines[i + 1].replace('\n', '').replace('\r', ''),
                         'content1': lines[i + 2].replace('\n', '').replace('\r', ''),
-                        'content2': lines[i + 3].replace('\n', '').replace('\r', '')
+                        'content2': lines[i + 3].replace('\n', '').replace('\r', ''),
+                        'index': keyword + '.' + titles[-1] + '--' + lines[i].replace('\n', '').replace('\r', ''),
+                        'time': lines[i + 1].replace('\n', '').replace('\r', '')
                     }
                     i = i + 5
                     subtitles.append(subtitle)
@@ -316,63 +353,73 @@ def read_file(file):
             newlist = sorted(subtitles, key=lambda d: d['time'])  # 对list按时间排序
             # print(newlist)
             save_to_mongodb(newlist)
-    except Exception:
-        print('讀取文件失敗')
+    except Exception as e:
+        print('讀取文件失敗', e)
         return None
+
+
+def save_to_mongodb(list):  # 保存至mongodb
+    try:
+        if db[MONGODB_COLLECTION].insert_many(list):
+            print('保存到MONGODB成功！')
+    except Exception as e:
+        print('保存到MONGODB失败！', e)
 
 
 def save_to_mongodb1111111111111111111111(list):  # 保存至mongodb
     # if db[MONGODB_COLLECTION].insert_many(list):
-    if db[MONGODB_COLLECTION].update({}, {'$set':{list}},upsert=True,multi=True):
-        print('保存到MONGODB成功！')
-    else:
-        print('保存到MONGODB失败！')
-
-def save_to_mongodb(list):  # 保存至mongodb
-    # if db[MONGODB_COLLECTION].insert_many(list):
     try:
         for ll in list:
-            db[MONGODB_COLLECTION].update({}, {'$set':ll},upsert=True)
+            db[MONGODB_COLLECTION].update({}, {'$set': ll}, upsert=True)
         print('保存到MONGODB成功！')
     except Exception as e:
-        print('保存到MONGODB失败！',e)
+        print('保存到MONGODB失败！', e)
+
 
 def main():
-    filename = 's01e02.rar'
-    # un_rar(FILEPATH + 'House.of.Cards.S02.rar')
+    filename = 'downton.abbey.s05.christmas.special.720p.bluray.x264 shortbrehd.srt 双语 字幕下载 - 字幕库(zimuku.cn)'
+    for filename in os.listdir(FILEPATH):
+        if re.search('downton.abbey', filename, re.IGNORECASE):
+            if select_file(FILEPATH, 'downton.abbey'):
+                os.remove(FILEPATH + filename)
+    ######################################################
 
-    sondir = un_rar(FILEPATH + filename)
-    if not sondir:
-        sondir = un_zip(FILEPATH + filename)
-        if not sondir:
-            if os.system('7z x \"{0}\"'.format(FILEPATH + filename)):
-                sondir = filename
-   #####################################################################################
-    if sondir:  # 解压成功
-        ptn = re.compile(KEYWORD1, re.IGNORECASE)  # 匹配showname文件夹名
-        for filename in os.listdir(FILEPATH):
-            extractName = re.search(ptn, filename)
-            print(extractName,sondir)
-            if (extractName or filename == sondir) and os.path.isdir(filename):  #
-                if select_file(FILEPATH + filename):
-                    shutil.rmtree(FILEPATH + filename)
-    #
-    # ptn = re.compile('Suits', re.IGNORECASE)  # 匹配showname文件夹名
-    # for filename in os.listdir(FILEPATH):
-    #     extractName = re.search(ptn, filename)
-    #     print(extractName)
-    #     if extractName and os.path.isdir(filename):
-    #         select_file(FILEPATH + filename)
-    #         shutil.rmtree(FILEPATH + filename)
-    remove_ptn = re.compile(KEYWORD1, re.IGNORECASE)
-    # for file in os.listdir(FILEPATH):
-    #     removefile = re.search(remove_ptn, file)
-    #     if removefile and os.path.isfile(file):  # 删除所有同模式的文件及文件夹
-    #         print(file)
-    #         os.remove(file)
-    #     elif removefile and os.path.isdir(file):
-    #         print(file)
-    #         shutil.rmtree(file)
+
+#  filename = 'chs&eng111111.rar'
+#  # un_rar(FILEPATH + 'House.of.Cards.S02.rar')
+#
+#  sondir = un_rar(FILEPATH + filename)
+#  if not sondir:
+#      sondir = un_zip(FILEPATH + filename)
+#      if not sondir:
+#          if os.system('7z x \"{0}\"'.format(FILEPATH + filename)):
+#              sondir = filename
+# #####################################################################################
+#  if sondir:  # 解压成功
+#      ptn = re.compile('Suits', re.IGNORECASE)  # 匹配showname文件夹名
+#      for filename in os.listdir(FILEPATH):
+#          extractName = re.search(ptn, filename)
+#          print(extractName,sondir)
+#          if (extractName or filename == sondir) and os.path.isdir(filename):  #
+#              if select_file(FILEPATH + filename,'Suits'):
+#                  shutil.rmtree(FILEPATH + filename)
+#
+# ptn = re.compile('Suits', re.IGNORECASE)  # 匹配showname文件夹名
+# for filename in os.listdir(FILEPATH):
+#     extractName = re.search(ptn, filename)
+#     print(extractName)
+#     if extractName and os.path.isdir(filename):
+#         select_file(FILEPATH + filename)
+#         shutil.rmtree(FILEPATH + filename)
+# remove_ptn = re.compile(KEYWORD1, re.IGNORECASE)
+# for file in os.listdir(FILEPATH):
+#     removefile = re.search(remove_ptn, file)
+#     if removefile and os.path.isfile(file):  # 删除所有同模式的文件及文件夹
+#         print(file)
+#         os.remove(file)
+#     elif removefile and os.path.isdir(file):
+#         print(file)
+#         shutil.rmtree(file)
 
 
 if __name__ == "__main__":

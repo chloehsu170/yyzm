@@ -1,12 +1,14 @@
+import datetime
+from multiprocessing.pool import Pool
 from urllib.parse import urlencode
 import requests
 from zimuku.yyzm.jieya import *
 from pyquery import PyQuery as pq
+from zimuku.yyzm.decoExtract import *
 
-
-def search():
+def search(i):
     data = {
-        'q': KEYWORD1
+        'q': i
     }
     url = 'http://www.zimuku.cn/search?' + urlencode(data)
     response = requests.get(url)
@@ -22,7 +24,7 @@ def parse_dramaShows_url(html):
     results = re.findall(ptn, html)
     if results:
         return results
-    raise Exception('字幕庫不存在：', KEYWORD1)
+    raise Exception('字幕庫不存在!')
 
 
 def get_shows_html(url):
@@ -136,9 +138,9 @@ def download11111111111111111(showURLresult, showTitleResult, showTitleMode):
         return None
 
 
-def main():
+def main(keyword):
     try:
-        html = search()
+        html = search(keyword)
         urls = parse_dramaShows_url(html)
         for url in urls:
             print('正在查找：', url)
@@ -153,12 +155,15 @@ def main():
                     if showResult:  # 该字幕组有该集
                         os.chdir(FILEPATH)  # 重新回到filepath下载路径
                         if download(showResult[0], showResult[1]):
-                            sondir = un_rar(FILEPATH + showResult[1])
+                            # sondir = un_rar(FILEPATH + showResult[1])
+                            sondir = Rars(FILEPATH + showResult[1]).extractf(FILEPATH + showResult[1])
                             if not sondir:
-                                sondir = un_zip(FILEPATH + showResult[1])
+                                sondir = Zips(FILEPATH + showResult[1]).extractf(FILEPATH + showResult[1])
                                 if not sondir:
-                                    if os.system('7z x \"{0}\"'.format(FILEPATH + showResult[1])):
-                                        sondir = showResult[1]
+                                    # if os.system('7z x \"{0}\"'.format(FILEPATH + showResult[1])):
+                                    #     sondir = showResult[1]
+                                    if select_file(FILEPATH,keyword):#下载文件为ass或srt文件
+                                         os.remove(FILEPATH + showResult[1])
                             #####################################################
                             # if showResult[2] == 'rar':
                             #     if not un_rar(FILEPATH + showResult[1]):  # 解压rar文件到当前目录+'.rar'
@@ -170,11 +175,11 @@ def main():
                             #     os.system('7z x \"{0}\"'.format(FILEPATH + showResult[1]))
                             #####################################################################################
                             if sondir:  # 解压成功
-                                ptn = re.compile(KEYWORD1, re.IGNORECASE)  # 匹配showname文件夹名
+                                ptn = re.compile(keyword, re.IGNORECASE)  # 匹配showname文件夹名
                                 for filename in os.listdir(FILEPATH):
                                     extractName = re.search(ptn, filename)
                                     if (extractName or filename == sondir) and os.path.isdir(filename):  #
-                                        if select_file(FILEPATH + filename):
+                                        if select_file(FILEPATH + filename,keyword):
                                             shutil.rmtree(FILEPATH + filename)
                                         else:
                                             # print('文件夹中找不到符合模式的srt文件！', filename)
@@ -203,7 +208,7 @@ def main():
     except Exception as e:
         print('出錯啦！', e)
     # finally:
-    #     remove_ptn = re.compile(KEYWORD1, re.IGNORECASE)
+    #     remove_ptn = re.compile(keyword, re.IGNORECASE)
     #     for file in os.listdir(FILEPATH):
     #         removefile = re.search(remove_ptn, file)
     #         if removefile and os.path.isfile(file):  # 删除所有同模式的文件及文件夹
@@ -211,8 +216,13 @@ def main():
     #             os.remove(file)
     #         elif removefile and os.path.isdir(file):
     #             print(file)
-    #             shutil.rmtree(file)
+    #             os.rmdir(file)
+                # shutil.rmtree(file)
 
 
 if __name__ == '__main__':
-    main()
+    now1 = datetime.datetime.now()
+    pool =Pool()
+    pool.map(main,[i for i in KEYWORD1])
+    now2 = datetime.datetime.now()
+    print((now2-now1).seconds)
